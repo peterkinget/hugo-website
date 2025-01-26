@@ -46,7 +46,7 @@ ISBN 978-0-387-37238-9,
 
 ## Book Chapters
   <ul>
- <li>  P. Kinget, M. Steyaert, and J. Van der Spiegel, <a href="./go_springer.html">"Full analog CMOS integration
+ <li>  P. Kinget, M. Steyaert, and J. Van der Spiegel, <a href="go_springer.html">"Full analog CMOS integration
 of very large time constants for synaptic transfer in neural networks,"</a> chapter
 in "Analog VLSI Neural Networks", Y. Takefuji (Ed.), Kluwer Academic Publishers,
 ISBN 0792392736,  pp. 19-34, November 1992.</li>
