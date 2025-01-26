@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-date: 2022-10-15T18:18:32-04:00
+date: 2025-01-25T18:18:32-04:00
 draft: false
 ---
 
@@ -10,7 +10,7 @@ sections.
 
 <center>
 
-| [Books](#books) | [Book Chapters](#book-chapters) | [Journal Papers](#journal-papers) | [Conference Papers](#conference-papers) | [Tutorials](#tutorials) | [Patents](#patents) |
+| [Books](#books) | [Book Chapters](#book-chapters) | [PhD Theses](#phd-theses) | [Journal Papers](#journal-papers) | [Conference Papers](#conference-papers) | [Tutorials](#tutorials) | [Patents](#patents) |
 
 </center>
 
@@ -56,7 +56,7 @@ E. Pierzchula and A. Rodriguez-Vazquez (Eds.), Kluwer Academic
 Publishers, ISBN 0792381254, pp. 27-38, February 1998.</li>
 
 <li> P. Kinget, <a
-href="http://www.ee.columbia.edu/%7Ekinget/papers_files/aacd99_book.pdf">"Integrated
+href="http://www.ee.columbia.edu/~kinget/papers_files/aacd99_book.pdf">"Integrated
 GHz voltage controlled oscillators,"</a> in Analog Circuit Design:
 (X)DSL and Other Communication Systems; RF MOST Models; Integrated
 Filters and Oscillators, W. Sansen, J.  Huijsing, and R. van de
@@ -70,6 +70,14 @@ Plassche, Eds. Boston, MA: Kluwer, 1999, pp. 353-381. </li>
   (Eds.), pp. 329-350, Springer, 2005.
 
   </ul>
+
+## Ph.D. Theses
+
+<ul><li>
+
+The PhD theses for recent alumni from the group are available at the [Columbia Academic Commons](https://academiccommons.columbia.edu/search?f%5Bgenre_ssim%5D%5B%5D=Theses&q=kinget&search_field=all_fields&sort=Published+Latest). 
+
+</ul></li>
 
 ## Journal Papers
 
@@ -495,13 +503,24 @@ accepted, 2014.
 <li>S. Nagam, Y. Fan, and P. R. Kinget, <a href="go_ieee.html">"Auxiliary Feed-Forward Noise Cancellation Techniques for a Generic Type-II Ring Oscillator Phase Locked Loop"</a>, IEEE Transactions on Circuits and Systems II, <b>invited</b>, early access online, March 2021; Vol. 68, No. 5, pp. 1670-1674, May 2021.
 </li>
  
-<li>Y. Zhang and P. R. Kinget, <a href="go_ieee.html">"The Tradeoff Between Noise, Data Rate, and Power Consumption of Transimpedance Amplifiers for Optical Receivers,"</a> Analog Integrated Circuits and Signal Processing,"</a> early access online, June 2021.
+<li>Y. Zhang and P. R. Kinget, <a href="go_springer.html">"The Tradeoff Between Noise, Data Rate, and Power Consumption of Transimpedance Amplifiers for Optical Receivers,"</a> Analog Integrated Circuits and Signal Processing,"</a> early access online, June 2021.
 </li>
  
 <li>G. Han and P. R. Kinget, <a href="go_ieee.html">""Double-Conversion, Noise-Cancelling Receivers using Modulated LNTAs and Double-Layer Passive Mixers for Concurrent Signal Reception with Tuned RF Interface,"</a> IEEE Transactions on Circuits and Systems I, early access online, June 2021; Vol. 68, no. 9, pp. 3913-3926, Sept. 2021. 
 </li>
  
 <li>Z. Wang, Y. Zhang, Y. Onizuka, and P. R. Kinget, <a href="go_ieee.html">"Multi-Phase Clock Generation for Phase Interpolation with a Multi-Phase, Injection-Locked Ring Oscillator and a Quadrature DLL,"</a> IEEE Journal of Solid-State Circuits, early access online, Nov. 2021.
+
+
+<li>Y. Zhang, Z. Wang, and P. R. Kinget, <a href="go_ieee.html">"Analysis of Injection-Locked Ring Oscillators for Quadrature Clock Generation in Wireline or Optical Transceivers,"</a> IEEE Transactions on Circuits and Systems I, early access online, May 2022; vol. 69, no. 8, pp. 3074-3082, Aug. 2022.
+
+<li>S. Ray and P. R. Kinget, <a href="go_ieee.html">"Ultra-Low-Power and Compact-Area Analog Audio Feature Extraction Based on Time-Mode Analog Filterbank Interpolation and Time-Mode Analog Rectification,"</a> IEEE Journal of Solid-State Circuits, vol. 58, no. 4, pp. 1025–1036, Apr. 2023, doi: 10.1109/JSSC.2022.3227246
+
+<li>Z. Wang and P. R. Kinget, <a href="go_ieee.html">"A Very High Linearity Twin Phase Interpolator With a Low-Noise and Wideband Delta Quadrature DLL for High-Speed Data Link Clocking,"</a> IEEE Journal of Solid-State Circuits, vol. 58, no. 4, pp. 1172–1184, Apr. 2023, doi: 10.1109/JSSC.2022.3197061 
+
+<li>P. Kinget, <a href="go_ieee.html">"Teaching IC Design: From Concepts to Testing a Fabricated Custom Chip [Society News],"</a> IEEE Solid-State Circuits Magazine, vol. 15, no. 3, pp. 87–93, 2023, doi: 10.1109/MSSC.2023.3283976.
+
+<li>P. Barac, M. Bajor, and P. R. Kinget, <a href="go_ieee.html">"Time-Modulated-LO-Path Vector Modulators for Beamforming Receivers,"</a> IEEE Solid-State Circuits Letters, Special Issue on the Custom Integrated Circuits Conference, invited, accepted for publication, Sept. 2024. doi: 10.1109/LSSC.2024.3478837
 
 </ol>
 </ul>
@@ -1244,6 +1263,23 @@ Sept. 2015.</li>
 <li> S. Ray and P. R. Kinget, <a href="go_ieee.html">"A 31-Feature, 80nW, 0.53mm2 Audio Analog Feature Extractor based on Time-Mode Analog Filterbank Interpolation and Time-Mode Analog Rectification,"</a> IEEE Symposium on VLSI Circuits, accepted, June 2022 
 </li>
 
+<li>M. Bajor et al., <a href="https://events.gnuradio.org/event/18/contributions/291/">"High-Speed Sensing of the Electromagnetic (EM) Environment for Cognitive Radio Receivers,"</a> presented at the GNU Radio Conference 2022, Washington, D.C., Washington, D.C., Sep. 2022. Accessed: Aug. 20, 2022. [Online]. 
+</li>
+
+<li>
+R. Xu, J. Ban, S. Kalani, C. Hsu,  S. Ray, B. Kirby, G. Matos, J. Gonski, A. Smith, D. Panchal, M. Unanian, X. Yang, N. Sun, J. Parsons, T. Andeen, and P. Kinget, <a href="go_ieee.html">"COLUTA: Custom 8-Channel 15-bit 40-MSPS ADC for the ATLAS Liquid Argon Calorimeter Readout,"</a> IEEE Nuclear Science Symposium and Medical Imaging, Nov. 2022
+</li>
+
+<li>P. Barac, M. Bajor, R. Li, C. Pappas, and P. R. Kinget, <a href="">"High-Speed Compressive Sensing-Based Spectral and Angular Sensing with a Dual Mode Hardware Architecture"</a>, GOMACTech, accepted, March 2023
+ 
+<li>S. Ray, X. Sun, N. Tremmeling, M. Gordiyenko, and P. Kinget, <a href="https://arxiv.org/abs/2304.08541">"How Tiny Can Analog Filterbank Features Be Made for Ultra-low-power On-device Keyword Spotting?"</a> tinyML Research Symposium, March 2023
+
+<li>P. Barac, M. Bajor, and P. R. Kinget, <a href="go_ieee.html">"A Beamforming Receiver Using a Time-Modulated LO-Path Vector Modulator Achieving Amplitude and Phase Control with 0.2 dB RMS Gain Error and 1.4 Degree RMS Phase Error,"</a> IEEE Custom Integrated Circuits Conference (CICC), accepted for oral presentation, pp. 1-4, April 2024
+
+<li>Z. Wang, H. Jiang, and P. R. Kinget, <a href="go_ieee.html">"A Digital Pre-Distortion Technique for High-Linearity, Low-Power, Compact Phase Interpolators,"</a> International Symposium on Circuits and Systems (ISCAS), accepted for oral presentation, pp. 1-4, May 2024.
+
+<li>R. Xu, E. Raguzin, S. Mandal, G. Deptuch, and P. R. Kinget, <a href="go_ieee.html">"Cryogenic Characterization of a 5-6 GHz LC VCO for CMOS-Quantum Co-Integration,"</a> IEEE Quant. Comp. and Eng. Conf., accepted for presentation, Sept. 2024.
+ 
 </ol>
 
 ## Tutorials 

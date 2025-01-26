@@ -18,6 +18,7 @@ menu:
       weight: 15
     - name: Research Group
       url: 'http://www.kingetgroup.ee.columbia.edu/'
+      target: "_blank"
       weight: 30
     - name: Publications
       url: /publications/
@@ -97,6 +98,7 @@ params:
               url: publications/
             - name: Research Group 
               url: "https://www.kingetgroup.ee.columbia.edu"
+              target: "_blank"
             - name: Why Analog
               url: why_analog
             - name: Posts
