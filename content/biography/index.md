@@ -7,7 +7,7 @@ date: 2025-01-25
 
 [Location](/location/)
 
-[Location2](location/)
+[Location2](../location/)
 
 
 ## Biographies
