@@ -8,6 +8,8 @@ tags:
 - EDA
 ---
 
+**This is very incomplete and needs updating!!**
+
 * PCB Tools
 + Easy EDA 
   + recommended by Longyi
