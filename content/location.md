@@ -8,8 +8,15 @@ description: "Contact Info"
 >       Bernard J. Lechner Professor of Electrical Engineering
 >       email:	peter dot kinget AT columbia dot edu
 >       office:	+1-212-854-0309
->       fax:	+1-212-932-9421
-	   
+>       fax:   	+1-212-932-9421
+>	   
+>       zoom:   https://www.zoom.us/my/peterkinget
+
+---
+
+#### Office hours
+
+[Current Office Hours](/officehours/)
 
 ---
 

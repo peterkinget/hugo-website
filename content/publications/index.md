@@ -4,13 +4,7 @@ date: 2022-10-15T18:18:32-04:00
 draft: false
 ---
 
-<!-- [blah]({{< relref "publications/index.md" >}}) -->
 
-[test](/publications/go_ieee.html)
-
-[testing](/hugo-website/publications/test.html)
-
-[ieee](/hugo-website/publications/go_ieee.html)
 
 <p> Publications are listed by type and in chronological order, so the most
 recent ones are at the end. Here are some short links to jump to various

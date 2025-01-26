@@ -10,7 +10,7 @@ taxonomies:
 
 menu:
     main:
-    - name: Bio
+    - name: Bio & Contact
       url: biography
       weight: 10
     - name: Research Group
@@ -86,7 +86,7 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Bio
+            - name: "Bio & Contact"
               url: biography
             - name: Teaching
               url: teaching/

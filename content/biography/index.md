@@ -1,10 +1,20 @@
 ---
-title: "Biography"
+title: "Biography and Contact"
 date: 2025-01-25
 ---
+
+## Contact
+
+[Location](/location/)
+
+[Location2](location/)
+
+
+## Biographies
+
 |&nbsp; [Biography](#biography)  &nbsp;&nbsp;|&nbsp;&nbsp;    [Shorter Biography](#shorter-biography) &nbsp;&nbsp;|&nbsp;&nbsp;    [Short Biography](#short-biography) &nbsp;|
 
-### Biography
+### Biography 
 Peter R. Kinget received the engineering degree (Summa cum Laude) in
 electrical and mechanical engineering and the Ph.D. (Summa cium Laude
 with Congratulations of the Jury) in electrical engineering from
@@ -72,7 +82,7 @@ In 2020, he became the inaugural recipient of the [IEEE Solid-State
   Paper Award - 3rd Place" at the 2018 IEEE Radio Frequency Integrated
   Circuits (RFIC) Symposium.
 
-## Shorter Biography
+### Shorter Biography
 
 Peter R. Kinget received an engineering degree in electrical and mechanical engineering and the Ph.D. in electrical engineering from the [Katholieke Universiteit in Leuven](https://www.kuleuven.be), Belgium.
 
@@ -81,7 +91,7 @@ Engineering](https://www.ee.columbia.edu). He served as Department Chair from 20
 
 Peter is widely published and received several awards. He is a Fellow of the IEEE. He has been a "Distinguished Lecturer" for the IEEE Solid-State Circuits Society (SSCS), and an Associate Editor of the IEEE Journal of Solid State Circuits (2003-2007) and the IEEE Transactions on Circuits and Systems II (2008-2009). He has served on the program committees of many of the major solid-state circuits conferences and has been an elected member of the IEEE SSCS Adcom (2011-2013 & 2014-2016).
 
-## Short Biography
+### Short Biography
 
 Peter Kinget is the [Bernard J. Lechner](https://en.wikipedia.org/wiki/Bernard_J._Lechner) Professor of [Electrical
 Engineering at Columbia University in New York](https://www.ee.columbia.edu). He received his engineering and Ph.D. degrees in electrical engineering from the [Katholieke Universiteit in Leuven](https://www.kuleuven.be) (Belgium). His research group focusses on the design of analog and RF integrated circuits and the novel systems or applications they enable in communications, sensing, and power management.    
