@@ -1,33 +1,34 @@
 ---
-title: "Location"
-date: 2024-05-08
-hidemeta: true
-description: "Professor Dr von Igelfeld's mailing and office addresses at the Institute of Romance Philology."
+title: "Contact Info"
+description: "Contact Info"
+--- 
 
----
-
----
-
-#### Mailing address
-
-Professor Dr von Igelfeld  
-Institute of Romance Philology  
-University of Regensburg  
-Regensburg, Germany
+### Contact
+>       Peter Kinget
+>       Bernard J. Lechner Professor of Electrical Engineering
+>       email:	peter dot kinget AT columbia dot edu
+>       office:	+1-212-854-0309
+>       fax:	+1-212-932-9421
+	   
 
 ---
 
 #### Office address
 
-Room 133  
-Institute of Romance Philology  
-University of Regensburg
+CEPSR 1009 (Schapiro)
+
+---
+
+#### Mailing address
+Columbia University \
+Dept. of Electrical Engineering \
+1300 S. W. Mudd Building \
+500 West 120th Street \
+New York, NY 10027, U.S.A
+
 
 ---
 
 #### Office location
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10470.896334563153!2d12.085487114429176!3d48.99680799095555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479fc1126394f30f%3A0xb4c5000594ee5334!2sUniversity%20of%20Regensburg!5e0!3m2!1sen!2sus!4v1714871932562!5m2!1sen!2sus" 
-width="700" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3019.834807042187!2d-73.96338582354494!3d40.809623731632804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2f63fc7309a6d%3A0x5a287e523e139890!2sSchapiro%20Center%20for%20Engineering%20and%20Physical%20Science%20Research!5e0!3m2!1sen!2sus!4v1737855226589!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

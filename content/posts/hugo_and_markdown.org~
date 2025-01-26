@@ -1,0 +1,58 @@
+#+TITLE: Starting with HUGO and Markdown
+#+AUTHOR: Peter Kinget
+#+OPTIONS: toc:nil
+
+* HUGO
+
++ =hugo server -D= will start a web server on localhost so you can view
+  your site while editing; very handy. "-D" includes the drafts ... so
+  if you have a discrepancy between the posted site and local site,
+  check for draft labels in the headers of files
+
++ =hugo -d <destination_dir>= creates the site into the destination
+  directory; without "-d" it goes to the public subfolder in the site
+  folder; you can then use github e.g., to sync the site to the hosting
+  service. 
+
+** Useful Links about Hugo
++ https://janezhang.ca/posts/building-website-with-hugo/
+
+
+* Markdown
+** Basic guide
+
+[[https://www.markdownguide.org/basic-syntax#links][Basic Guide]]
+
+** Adding comments in Markdown
+Just use the hmtl comment tags, i.e. =<!--- your comment --->=
+
+** Adding HTML
+Just add the HTML
+
+** Adding links
+The markdown link syntax is =[some link](https://www.some.link.com)=
+
+* Github 
+
+** Github desktop app
++ downloaded and installed
++ put repositories in ~/files/PK/GitHub
+
+** Making peterkinget.github.io
++ used https://gist.github.com/TylerFisher/6127328 as inspiration
+Created a repository peterkinget.github.io
++ make sure it is public
++ make sure that under settings you go to Pages and fill out the "Build
+  and deployment" section
++ I put a simple index.html and it did work after a few minutes
+
+Changed the baseurl for HUGO site to https://peterkinget.github.io
+Then copied the public html contents into github directory and uploaded
+
+** Uploading to github
++ make sure to give the commit a name
+
+* Publications
+
++ Zotero to HTML ==> http://david-reitter.com/pub/index.html
+

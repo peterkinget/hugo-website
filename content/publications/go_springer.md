@@ -1,0 +1,11 @@
+---
+title: "Go"
+---
+
+<META HTTP-EQUIV="Refresh" CONTENT="0;
+          URL=https://link.springer.com/search/page/1?dc.creator=Peter+Kinget">
+          <HEAD><TITLE>Going to Springer</TITLE> 
+          <BODY> 
+<p><b> This page should take you automatically to the Springer website. If not, follow <a
+href="https://link.springer.com/search/page/1?dc.creator=Peter+Kinget">this
+link</a></b> </BODY>

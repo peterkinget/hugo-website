@@ -1,7 +1,7 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://peterkinget.github.io/hugo-website/" 
+title: Peter R. Kinget
 theme: PaperMod
-
+publishDir: docs
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
@@ -10,25 +10,49 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
-          url: papers/
-          weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
-
+    - name: Bio
+      url: biography
+      weight: 10
+    - name: Research Group
+      url: 'http://www.kingetgroup.ee.columbia.edu/'
+      weight: 30
+    - name: Publications
+      url: /publications/
+      weight: 20
+    - name: Teaching
+      url: teaching
+      weight: 15
+    - name: Why Analog
+      url: why_analog
+      weight: 115
+    - name: Posts
+      url: posts
+      weight: 50
+#     - name: Tags
+#       url: /tags
+#       weight: 116
+#     - name: Categories
+#       url: /categories
+#       weight: 117
+#         - name: Books
+#           url: books/
+#           weight: 5 
+#         - name: Papers
+#           url: papers/
+#           weight: 2
+#         - name: Courses
+#           url: courses/
+#           weight: 3
+#         - name: Data
+#           url: data/
+#           weight: 4 
+#         - name: Blog
+#           url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+#           weight: 6
+# 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
-    author: Moritz-Maria von Igelfeld
+    description: "I am a professor"
+    author: Peter R. Kinget
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -52,57 +76,81 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "picture.jpeg"
+          title: Peter R. Kinget
+          subtitle: "Bernard J. Lechner Professor of [Electrical Engineering](https://www.ee.columbia.edu) 
+               at [Columbia University in the City of New York](https://www.columbia.edu). 
+               His research group focusses on the design of analog and RF integrated circuits 
+               and the novel systems or applications they enable in communications, sensing, 
+               and power management."
+          imageUrl: "images/photo_hat_2024.png"
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
+            - name: Bio
+              url: biography
+            - name: Teaching
+              url: teaching/
+            - name: Publications
+              url: publications/
+            - name: Research Group 
+              url: "https://www.kingetgroup.ee.columbia.edu"
+            - name: Posts
+              url: posts
+            - name: Why Analog
+              url: why_analog
             - name: Tags
               url: tags/
             - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-
+              url: archive
     socialIcons:
-        - name: CV
-          url: cv.pdf
-        - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        - name: Twitter
-          url: https://twitter.com/McCallSmith
-
+     - name: email
+       title: Send Me E-mail
+       url: "mailto:no_email@kinget.net"
+     - name: location
+       url: location/
+     - name: Office Hours
+       url: officehours
+     - name: Zoom
+       url: https://www.zoom.us/my/peterkinget
+     - name: Google Scholar
+       url: "https://scholar.google.com/citations?user=-9V6YLkAAAAJ&hl=en"
+     - name: linkedin
+       title: See My LinkedIn Profile
+       url: "https://www.linkedin.com/in/peter-kinget-7481a3/"
+     - name: github
+       title: View My Github page
+       url: "https://github.com/peterkinget"
+     - name: Youtube
+       url: https://www.youtube.com/@vlsidesignlabcourse
+#         - name: CV
+#           url: cv.pdf
+#         - name: Email
+#           url: mailto:moritz.maria.von.igelfeld@gmail.com
+#         - name: Zoom
+#           url: https://www.zoom.us/my/igelfeld
+#         - name: Location
+#           url: location/
+#         - name: Office Hours
+#           url: officehours/
+#         - name: Google Scholar
+#           url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+#         - name: GitHub
+#           url: https://github.com/pmichaillat
+#         - name: Substack
+#           url: https://pmichaillat.substack.com
+#         - name: YouTube
+#           url: https://www.youtube.com/@alexandermccallsmithoffici9000
+#         - name: Twitter
+#           url: https://twitter.com/McCallSmith
+# 
     assets:
         disableScrollBarStyle: true
     cover:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
-      icon: favicon.ico
+      text: "Home"
+      icon: images/favicon.ico
       iconHeight: 18
 
 markup:

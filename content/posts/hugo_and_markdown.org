@@ -1,0 +1,78 @@
+---
+title: "Starting with HUGO and Markdown"
+date: 2022-10-22
+tags: 
+- hugo
+- markdown
+categories:
+- howto 
+---
+
+These are random notes; they are not intended to be a structured
+tutorial but instead just serve as a notepad of things that were often
+hard or frustating to find out and are noted for future reference. 
+
+* HUGO
+
++ still trying to understand the structure of the content directory ... 
+
++ =hugo server -D= will start a web server on localhost so you can view
+  your site while editing; very handy. "-D" includes the drafts ... so
+  if you have a discrepancy between the posted site and local site,
+  check for draft labels in the headers of files
+
++ when the local server does not seem to include  your changes, then
+  restart it; restarting it can give different results from itself
+  detecting changes and updating the site; in particular with tags and
+  categories.
+
++ =hugo -d <destination_dir>= creates the site into the destination
+  directory; without "-d" it goes to the public subfolder in the site
+  folder; you can then use github e.g., to sync the site to the hosting
+  service. 
+
++ adding comments to posts
+ - Have tried disqus; seems to work relatively easily
+ - Have tried cactus_comments (via Matrix); seems to be more cumbersome
+
+** Useful Links about Hugo
++ https://janezhang.ca/posts/building-website-with-hugo/
+
+
+* Markdown
+** Basic Guide 
++ You find a basic guide [[https://www.markdownguide.org/basic-syntax#links][here]]
+
+** Adding comments in Markdown
++ Just use the hmtl comment tags, i.e. =<!--- your comment --->=
+
+** Adding HTML
++ Just add the HTML
+
+** Adding links
++ The markdown link syntax is =[some link](https://www.some.link.com)=
+
+* Github 
+
+** Github desktop app
++ downloaded and installed
++ put repositories in ~/files/PK/GitHub
+
+** Making peterkinget.github.io
++ used https://gist.github.com/TylerFisher/6127328 as inspiration
+Created a repository peterkinget.github.io
++ make sure it is public
++ make sure that under settings you go to Pages and fill out the "Build
+  and deployment" section
++ I put a simple index.html and it did work after a few minutes
+
+Changed the baseurl for HUGO site to https://peterkinget.github.io
+Then copied the public html contents into github directory and uploaded
+
+** Uploading to github
++ make sure to give the commit a name
+
+* Publications
+
++ Zotero to HTML ==> http://david-reitter.com/pub/index.html
+

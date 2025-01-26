@@ -1,0 +1,31 @@
+
+* PCB Tools
++ Easy EDA 
+  + recommended by Longyi
+  + online tool
+
++ DipTrace
+  + recommended by Matt
+  + we used to have some licenses in the lab
+
++ KiCAD
+  + open source
+  + recommended/supported by CERN
+  + experience has been varied; seems to work better on PC
+
++ Altium
+  + student licenses available
+  + seems to be preferred by many
+
+
+* PCB Fabrication
++ Advanced Circuits
+  + good quality but more expensive
+
++ PCBWay
+  + OK quality (for 6350 in 2022) but less expensive
+
++ OSHPark
+
++ JLC
+  + works with EasyEDA
