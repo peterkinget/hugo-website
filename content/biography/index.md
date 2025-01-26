@@ -3,7 +3,8 @@ title: "Biographies"
 date: 2025-01-25
 ---
 
-|&nbsp; [Biography](#biography)  &nbsp;&nbsp;|&nbsp;&nbsp;    [Shorter Biography](#shorter-biography) &nbsp;&nbsp;|&nbsp;&nbsp;    [Short Biography](#short-biography) &nbsp;|
+|&nbsp; [Biography](#biography)  &nbsp;&nbsp;|&nbsp;&nbsp;    [Shorter Biography](#shorter-biography) &nbsp;&nbsp;|&nbsp;&nbsp;    [Short Biography](#short-biography) 
+&nbsp;&nbsp;|&nbsp;&nbsp; [Photos](#photos) &nbsp;|
 
 ### Biography 
 Peter R. Kinget received the engineering degree (Summa cum Laude) in
@@ -86,3 +87,14 @@ Peter is widely published and received several awards. He is a Fellow of the IEE
 
 Peter Kinget is the [Bernard J. Lechner](https://en.wikipedia.org/wiki/Bernard_J._Lechner) Professor of [Electrical
 Engineering at Columbia University in New York](https://www.ee.columbia.edu). He received his engineering and Ph.D. degrees in electrical engineering from the [Katholieke Universiteit in Leuven](https://www.kuleuven.be) (Belgium). His research group focusses on the design of analog and RF integrated circuits and the novel systems or applications they enable in communications, sensing, and power management.    
+
+### Photos
+
+#### 1996
+![](../images/photo_1996.gif)
+
+#### 2011
+{{< figure src="../images/photo_jan_2011.png" height="200px">}}
+
+#### 2024
+{{< figure src="../images/photo_hat_2024.png" height="200px">}}

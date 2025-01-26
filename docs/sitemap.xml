@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://peterkinget.github.io/hugo-website/tags/opinion/</loc>
-    <lastmod>2025-01-25T11:58:27-04:00</lastmod>
-  </url><url>
     <loc>https://peterkinget.github.io/hugo-website/</loc>
+    <lastmod>2025-01-25T19:21:49-04:00</lastmod>
+  </url><url>
+    <loc>https://peterkinget.github.io/hugo-website/teaching/</loc>
+    <lastmod>2025-01-25T19:21:49-04:00</lastmod>
+  </url><url>
+    <loc>https://peterkinget.github.io/hugo-website/tags/opinion/</loc>
     <lastmod>2025-01-25T11:58:27-04:00</lastmod>
   </url><url>
     <loc>https://peterkinget.github.io/hugo-website/posts/</loc>
@@ -49,9 +52,6 @@
   </url><url>
     <loc>https://peterkinget.github.io/hugo-website/why_analog/</loc>
     <lastmod>2022-10-15T19:51:10-04:00</lastmod>
-  </url><url>
-    <loc>https://peterkinget.github.io/hugo-website/teaching/</loc>
-    <lastmod>2022-10-15T19:21:49-04:00</lastmod>
   </url><url>
     <loc>https://peterkinget.github.io/hugo-website/publications/</loc>
     <lastmod>2022-10-15T18:18:32-04:00</lastmod>

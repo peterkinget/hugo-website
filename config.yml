@@ -82,8 +82,8 @@ params:
           title: Peter R. Kinget
           subtitle: "Bernard J. Lechner Professor of [Electrical Engineering](https://www.ee.columbia.edu) 
                at [Columbia University in the City of New York](https://www.columbia.edu). 
-               His research group focusses on the design of analog and RF integrated circuits 
-               and the novel systems or applications they enable in communications, sensing, 
+               His research focusses on the design of analog and RF integrated circuits 
+               and the novel systems or applications they enable in communications, sensing, computation,
                and power management."
           imageUrl: "images/photo_hat_2024.png"
           imageWidth: 160

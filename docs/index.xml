@@ -6,8 +6,35 @@
     <description>Recent content on Peter R. Kinget</description>
     <generator>Hugo -- 0.141.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Jan 2025 11:58:27 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 19:21:49 -0400</lastBuildDate>
     <atom:link href="https://peterkinget.github.io/hugo-website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teaching</title>
+      <link>https://peterkinget.github.io/hugo-website/teaching/</link>
+      <pubDate>Sat, 25 Jan 2025 19:21:49 -0400</pubDate>
+      <guid>https://peterkinget.github.io/hugo-website/teaching/</guid>
+      <description>&lt;h1 id=&#34;education-projects&#34;&gt;Education Projects&lt;/h1&gt;
+&lt;h2 id=&#34;vlsi-design-labhttpswwweecolumbiaedukingetvlsidesignlab&#34;&gt;&lt;a href=&#34;https://www.ee.columbia.edu/~kinget/vlsidesignlab&#34; target=&#34;_blank&#34;&gt;VLSI Design Lab&lt;/a&gt;&lt;/h2&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;!-- &lt;td  colspan=&#34;2&#34; align=&#34;center&#34;&gt;&lt;iframe align=&#34;middle&#34; width=&#34;420&#34; height=&#34;315&#34;
+			src=&#34;https://www.youtube.com/embed/H0-fBRIJ4Tg&#34;&gt; 
+  &lt;/iframe&gt; --&gt;
+&lt;td&gt;&lt;iframe align=&#34;middle&#34; width=&#34;420&#34; height=&#34;315&#34;
+			src=&#34;https://www.youtube.com/embed/H0-fBRIJ4Tg&#34;&gt; 
+&lt;/iframe&gt;
+&lt;/td&gt;
+&lt;td&gt;
+   &lt;a href=&#34;https://ieeexplore.ieee.org/document/10224621&#34;&gt;&lt;img height=&#34;315&#34;
+   src=&#34;images/SSCS_Magazine_summer_2023.png&#34; alt=&#34;SSCS Magazine Summer 2023&#34;&gt;&lt;/a&gt;
+   &lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;h2 id=&#34;mosbiushttpsmosbiusorg&#34;&gt;&lt;a href=&#34;https://mosbius.org&#34; target=&#34;_blank&#34;&gt;MOSbius&lt;/a&gt;&lt;/h2&gt;
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;images/MobiusChip_overview.png&#34;
+         alt=&#34;Overview of the MOSbius platform. Transistors and circuits on the MOSbius chip allow the student to create an electronic circuit that they can evaluate experimentally to learn to connect design, analyis, simulation and measurements.&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Overview of the MOSbius platform. Transistors and circuits on the MOSbius chip allow the student to create an electronic circuit that they can evaluate experimentally to learn to connect design, analyis, simulation and measurements.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Under Construction</title>
       <link>https://peterkinget.github.io/hugo-website/posts/20250125/</link>
@@ -22,7 +49,8 @@
       <link>https://peterkinget.github.io/hugo-website/biography/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://peterkinget.github.io/hugo-website/biography/</guid>
-      <description>&lt;p&gt;|  &lt;a href=&#34;#biography&#34;&gt;Biography&lt;/a&gt;    |      &lt;a href=&#34;#shorter-biography&#34;&gt;Shorter Biography&lt;/a&gt;   |      &lt;a href=&#34;#short-biography&#34;&gt;Short Biography&lt;/a&gt;  |&lt;/p&gt;
+      <description>&lt;p&gt;|  &lt;a href=&#34;#biography&#34;&gt;Biography&lt;/a&gt;    |      &lt;a href=&#34;#shorter-biography&#34;&gt;Shorter Biography&lt;/a&gt;   |      &lt;a href=&#34;#short-biography&#34;&gt;Short Biography&lt;/a&gt;
+  |   &lt;a href=&#34;#photos&#34;&gt;Photos&lt;/a&gt;  |&lt;/p&gt;
 &lt;h3 id=&#34;biography&#34;&gt;Biography&lt;/h3&gt;
 &lt;p&gt;Peter R. Kinget received the engineering degree (Summa cum Laude) in
 electrical and mechanical engineering and the Ph.D. (Summa cium Laude
@@ -372,452 +400,6 @@ bytes, while monitors reverse the transaction.  &#34;&lt;/i&gt;
 
 
 &lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Teaching</title>
-      <link>https://peterkinget.github.io/hugo-website/teaching/</link>
-      <pubDate>Sat, 15 Oct 2022 19:21:49 -0400</pubDate>
-      <guid>https://peterkinget.github.io/hugo-website/teaching/</guid>
-      <description>&lt;!-- 
-&lt;center&gt;
-  &lt;h1&gt; Teaching&lt;/h1&gt;
-&lt;/center&gt;
---&gt;
-
-&lt;h4&gt;Fall 2022:&lt;/h4&gt; 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE4312_F22/&#34;&gt;EE4312
-    Analog Electronic Circuits &lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;Spring 2022:&lt;/h4&gt; 
-&lt;ul&gt;
- &lt;li&gt;&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE6350_S22/&#34;&gt;EE6350 VLSI
-     Design Lab &lt;/a&gt;&lt;br&gt;
-&lt;center&gt;
-    &lt;img border=&#34;0&#34; alt=&#34;tiled_top&#34; width=400 src=&#34;images/ee6350_S22_tiled_top_20220705_s.png&#34;&gt;
-&lt;/center&gt;
-
-&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;Fall 2021:&lt;/h4&gt; 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE4312_F21/&#34;&gt;EE4312
-    Analog Electronic Circuits &lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;Spring 2021:&lt;/h4&gt; 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE9303_S21/&#34;&gt;EE9303
-    Seminar in Electronic Circuits: Advanced Topics in IC
-    Design&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;Fall 2020B:&lt;/h4&gt; 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.columbia.edu/cu/bulletin/uwb-test/subj/ELEN/E4312-20203-002/&#34;&gt;EE4312
-    Analog Electronic Circuits (Fall B section)&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;Spring 2020:&lt;/h4&gt; 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE9303_S20/&#34;&gt;EE9303
-    Seminar in Electronic Circuits: Advanced Topics in IC Design &lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;Fall 2017 - Fall 2019:&lt;/h4&gt; 
-&lt;ul&gt;
-&lt;li&gt;teaching exemption as department chair
-&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;Fall 2016 - Spring 2017:&lt;/h4&gt; 
-&lt;ul&gt;
-&lt;li&gt;On sabbatical
-&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;Spring 2016:&lt;/h4&gt; 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE6350_S16/&#34;&gt;EE6350 VLSI
-    Design Lab&lt;/a&gt;&lt;br&gt;
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td  colspan=&#34;2&#34; align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE6350_S16/&#34;&gt;Project WEBSITES&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;iframe align=&#34;middle&#34; width=&#34;298&#34; height=&#34;244&#34;
-			src=&#34;https://www.youtube.com/embed/zMZqzXfjOko&#34;&gt;
-			&lt;/iframe&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;iframe align=&#34;middle&#34; width=&#34;298&#34; height=&#34;244&#34;
-			src=&#34;https://www.youtube.com/embed/j4FVpHbLTC4&#34;&gt;
-			&lt;/iframe&gt;			&lt;/td&gt;
-&lt;/tr&gt;&lt;tr&gt;
-&lt;td&gt;&lt;iframe align=&#34;middle&#34; width=&#34;298&#34; height=&#34;244&#34;
-			src=&#34;https://www.youtube.com/embed/sUO1surDGXk&#34;&gt;
-			&lt;/iframe&gt;			&lt;/td&gt;
-&lt;td&gt;&lt;iframe align=&#34;middle&#34; width=&#34;298&#34; height=&#34;244&#34;
-			src=&#34;https://www.youtube.com/embed/taOlRMmPBJI&#34;&gt;
-			&lt;/iframe&gt;			&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;iframe align=&#34;middle&#34; width=&#34;298&#34; height=&#34;244&#34;
-			src=&#34;https://www.youtube.com/embed/emXGtD1oSMo&#34;&gt;
-			&lt;/iframe&gt;			&lt;/td&gt;
-&lt;td&gt;&lt;iframe align=&#34;middle&#34; width=&#34;298&#34; height=&#34;244&#34;
-			src=&#34;https://www.youtube.com/embed/V7mtlETPEOA&#34;&gt;
-			&lt;/iframe&gt;			&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;iframe align=&#34;middle&#34; width=&#34;298&#34; height=&#34;244&#34;
-			src=&#34;https://www.youtube.com/embed/zxmJII4Jjko&#34;&gt;
-			&lt;/iframe&gt;			&lt;/td&gt;
-&lt;td&gt;&lt;iframe align=&#34;middle&#34; width=&#34;298&#34; height=&#34;244&#34;
-			src=&#34;https://www.youtube.com/embed/YqcfBM__4H4&#34;&gt;
-			&lt;/iframe&gt;			&lt;/td&gt;
-&lt;/tr&gt;
-&lt;!-- https://youtu.be/3Wqu2JRCIII
-https://youtu.be/QTw3V2yc6E4  --&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;iframe align=&#34;middle&#34; width=&#34;298&#34; height=&#34;244&#34;
-			src=&#34;https://www.youtube.com/embed/QTw3V2yc6E4&#34;&gt;
-			&lt;/iframe&gt;			&lt;/td&gt;
-&lt;td&gt;&lt;iframe align=&#34;middle&#34; width=&#34;298&#34; height=&#34;244&#34;
-			src=&#34;https://www.youtube.com/embed/3Wqu2JRCIII&#34;&gt;
-			&lt;/iframe&gt;			&lt;/td&gt;
-&lt;/tr&gt; 
-&lt;/table&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;Fall 2015:&lt;/h4&gt; 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE6314_F15/&#34;&gt;EE6314
-    Advanced Communication Circuits&lt;/a&gt;&lt;br&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;Spring 2015:&lt;/h4&gt; 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE6350_S15/&#34;&gt;EE6350 VLSI
-    Design Lab&lt;/a&gt;&lt;br&gt;
-
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td  colspan=&#34;2&#34; align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE6350_S15/&#34;&gt;Project WEBSITES&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;iframe align=&#34;middle&#34; width=&#34;298&#34; height=&#34;244&#34;
-			src=&#34;https://www.youtube.com/embed/iZkOqww1d-g&#34;&gt;
-			&lt;/iframe&gt;			&lt;/td&gt;
-&lt;td&gt;&lt;iframe align=&#34;middle&#34; width=&#34;298&#34; height=&#34;244&#34;
-			src=&#34;https://www.youtube.com/embed/xmkni1Qu4vo&#34;&gt;
-			&lt;/iframe&gt;			&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;iframe align=&#34;middle&#34; width=&#34;298&#34; height=&#34;244&#34;
-			src=&#34;https://www.youtube.com/embed/L1-zMvo4U-I&#34;&gt;
-			&lt;/iframe&gt;			&lt;/td&gt;
-&lt;td&gt;&lt;iframe align=&#34;middle&#34; width=&#34;298&#34; height=&#34;244&#34;
-			src=&#34;https://www.youtube.com/embed/q-asST0CLGM&#34;&gt;
-			&lt;/iframe&gt;			&lt;/td&gt;
-&lt;/tr&gt;&lt;tr&gt;
-&lt;td&gt;&lt;iframe align=&#34;middle&#34; width=&#34;298&#34; height=&#34;244&#34;
-			src=&#34;https://www.youtube.com/embed/4heLg4xpxtA&#34;&gt;
-			&lt;/iframe&gt;			&lt;/td&gt;
-&lt;td&gt;&lt;iframe align=&#34;middle&#34; width=&#34;298&#34; height=&#34;244&#34;
-			src=&#34;https://www.youtube.com/embed/y1iPTcietUc&#34;&gt;
-			&lt;/iframe&gt;			&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;iframe align=&#34;middle&#34; width=&#34;298&#34; height=&#34;244&#34;
-			src=&#34;https://www.youtube.com/embed/XdSUQHCGAC4&#34;&gt;
-			&lt;/iframe&gt;			&lt;/td&gt;
-&lt;td&gt;&lt;iframe align=&#34;middle&#34; width=&#34;298&#34; height=&#34;244&#34;
-			src=&#34;https://www.youtube.com/embed/AM_IP4-LzU0&#34;&gt;
-			&lt;/iframe&gt;			&lt;/td&gt;
-&lt;/tr&gt;
-&lt;!-- &lt;tr&gt;
-  &lt;td&gt;&lt;img width=200px src=&#34;http://www.ee.columbia.edu/~kinget/EE6350_S15/07_DigitalFilter_Scott/images/die2.png&#34;&gt;&lt;/td&gt;
-  &lt;td&gt;&lt;img width=200px
-	   src=&#34;http://www.ee.columbia.edu/~kinget/EE6350_S15/06_LDO_Sanket_Zhongjie/images/Diephoto.jpg&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt; --&gt;
-&lt;!-- &lt;tr&gt;
-&lt;td  colspan=&#34;2&#34; align=&#34;center&#34;&gt;More videos to follow shortly; check back soon. &lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td  colspan=&#34;2&#34; align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE6350_S14/&#34;&gt;&lt;img border=1 width=&#34;350px&#34; src=&#34;images/6350_S14.png&#34;&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt; --&gt;
-&lt;/table&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;Fall 2014:&lt;/h4&gt; 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE6901_F14/&#34;&gt;EE6901
-Topics in Electrical and Computer Engineering: Advances in Phase Locked Loops&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;Spring 2014:&lt;/h4&gt; 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE6350_S14/&#34;&gt;EE6350 VLSI
-    Design Lab&lt;/a&gt;&lt;br&gt;
-
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td  colspan=&#34;2&#34; align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE6350_S14/&#34;&gt;Project WEBSITES&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;iframe align=&#34;middle&#34; width=&#34;298&#34; height=&#34;244&#34;
-			src=&#34;https://www.youtube.com/embed/IyMDJ9dh9Iw&#34;&gt;
-			&lt;/iframe&gt;			&lt;/td&gt;
-&lt;td&gt;&lt;iframe align=&#34;middle&#34; width=&#34;298&#34; height=&#34;244&#34;
-			src=&#34;https://www.youtube.com/embed/D5NWizRueuQ&#34;&gt;
-			&lt;/iframe&gt;			&lt;/td&gt;
-&lt;/tr&gt;&lt;tr&gt;
-&lt;td&gt;&lt;iframe align=&#34;middle&#34; width=&#34;298&#34; height=&#34;244&#34;
-			src=&#34;https://www.youtube.com/embed/GEa9idnumjQ&#34;&gt;
-			&lt;/iframe&gt;			&lt;/td&gt;
-&lt;td&gt;&lt;iframe align=&#34;middle&#34; width=&#34;298&#34; height=&#34;244&#34;
-			src=&#34;https://www.youtube.com/embed/gbL1s0ypqVA&#34;&gt;
-			&lt;/iframe&gt;			&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;iframe align=&#34;middle&#34; width=&#34;298&#34; height=&#34;244&#34;
-			src=&#34;https://www.youtube.com/embed/BDLCV0PDeSQ&#34;&gt;
-			&lt;/iframe&gt;			&lt;/td&gt;
-&lt;td&gt;&lt;iframe align=&#34;middle&#34; width=&#34;298&#34; height=&#34;244&#34;
-			src=&#34;https://www.youtube.com/embed/GMTLwG7GNiE&#34;&gt;
-			&lt;/iframe&gt;			&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;iframe align=&#34;middle&#34; width=&#34;298&#34; height=&#34;244&#34;
-			src=&#34;https://www.youtube.com/embed/7v0j2700JK0&#34;&gt;
-			&lt;/iframe&gt;			&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;!-- &lt;tr&gt;
-&lt;td  colspan=&#34;2&#34; align=&#34;center&#34;&gt;More videos to follow shortly; check back soon. &lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td  colspan=&#34;2&#34; align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE6350_S14/&#34;&gt;&lt;img border=1 width=&#34;350px&#34; src=&#34;images/6350_S14.png&#34;&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt; --&gt;
-&lt;/table&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td colspan=&#34;2&#34;&gt;
-&lt;h4&gt;Past Semesters:&lt;/h4&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;b&gt;&lt;center&gt;Fall 2013&lt;/center&gt;&lt;/b&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE6314_F13/&#34;&gt;EE6314
-Advanced Communication Circuits&lt;/a&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;b&gt;&lt;center&gt;Spring 2013&lt;/center&gt;&lt;/b&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE6312_S13/&#34;&gt;EE6312
-Advanced Analog Integrated Circuit Design&lt;/a&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;b&gt;&lt;center&gt;Fall 2012&lt;/center&gt;&lt;/b&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE9303_F12/&#34;&gt;EE9303
-    Seminar in Electronic Circuits: Advanced Topics in IC Design &lt;/a&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;b&gt;&lt;center&gt;Spring 2012&lt;/center&gt;&lt;/b&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE6312_S12/&#34;&gt;EE6312
-Advanced Analog Integrated Circuit Design&lt;/a&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;b&gt;&lt;center&gt;Fall 2011&lt;/center&gt;&lt;/b&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE6314_F11/&#34;&gt;EE6314
-Advanced Communications Circuits&lt;/a&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;b&gt;&lt;center&gt;Spring 2011&lt;/center&gt;&lt;/b&gt;&lt;/td&gt;
-&lt;td&gt;On sabbatical&lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;&lt;b&gt;&lt;center&gt;Fall 2010&lt;/center&gt;&lt;/b&gt;&lt;/td&gt;
-&lt;td&gt;On sabbatical&lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;&lt;b&gt;&lt;center&gt;Spring 2010&lt;/center&gt;&lt;/b&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE6901_S10/&#34;&gt;EE6901
-Topics in Electrical and Computer Engineering:&lt;/a&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;b&gt;&lt;center&gt;&lt;/center&gt;&lt;/b&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE6901_S10/&#34;&gt;Advances in Phase Locked Loops&lt;/a&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;b&gt;&lt;center&gt;Fall 2009&lt;/center&gt;&lt;/b&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE6314_F09/&#34;&gt;EE6314
-Advanced Communications Circuits&lt;/a&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;b&gt;&lt;center&gt;Spring 2009&lt;/center&gt;&lt;/b&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE6312_S09/&#34;&gt;EE6312
-Advanced Analog Integrated Circuit Design&lt;/a&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;b&gt;&lt;center&gt;Fall 2008&lt;/center&gt;&lt;/b&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE6314_F08/&#34;&gt;EE6314
-Advanced Communications Circuits&lt;/a&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;b&gt;&lt;center&gt;Spring 2008&lt;/center&gt;&lt;/b&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE6312_S08/&#34;&gt;EE6312
-Advanced Analog Integrated Circuit Design&lt;/a&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;b&gt;&lt;center&gt;Fall 2007&lt;/center&gt;&lt;/b&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE6314_F07/&#34;&gt;EE6314
-Advanced Communications Circuits&lt;/a&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;b&gt;&lt;center&gt;Fall 2006&lt;/center&gt;&lt;/b&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE6314_F06/&#34;&gt;EE6314
-Advanced Communications Circuits&lt;/a&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;b&gt;&lt;center&gt;Spring 2006&lt;/center&gt;&lt;/b&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE6312_S06/&#34;&gt;EE6312
-Advanced Analog Integrated Circuit Design&lt;/a&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;b&gt;&lt;center&gt;Fall 2005&lt;/center&gt;&lt;/b&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE6314_F05/&#34;&gt;EE6314
-Advanced Communications Circuits&lt;/a&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;b&gt;&lt;center&gt;Spring 2005&lt;/center&gt;&lt;/b&gt; 
-&lt;/td&gt;
-&lt;td&gt;
-&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE6312_S05/&#34;&gt;EE6312
-Advanced Analog Integrated Circuit Design&lt;/a&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;b&gt;&lt;center&gt;Fall 2004 &lt;/center&gt;&lt;/b&gt; 
-&lt;/td&gt;
-&lt;td&gt;
-&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE6314_F04/&#34;&gt;EE6314
-Advanced Communications Circuits&lt;/a&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;b&gt;&lt;center&gt;Spring 2004 &lt;/center&gt;&lt;/b&gt; 
-&lt;/td&gt;
-&lt;td&gt;
-&lt;!-- &lt;li&gt;&lt;a href=&#34;ee6312_s04_intro.pdf&#34;&gt;EE6312 Advanced Analog Integrated Circuit Design&lt;/a&gt;&lt;/li&gt; --&gt;
-&lt;!-- &lt;li&gt;&lt;a href=&#34;http://www.cisl.columbia.edu/~ee6312&#34;&gt;EE6312 Advanced --&gt;
-&lt;!-- Analog Integrated Circuit Design&lt;/a&gt;&lt;/li&gt; --&gt;
-&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE6312_S04/&#34;&gt;EE6312
-Advanced Analog Integrated Circuit Design&lt;/a&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;b&gt;&lt;center&gt;Fall 2003 &lt;/center&gt;&lt;/b&gt; 
-&lt;/td&gt;
-&lt;td&gt;
-&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE3201_F03&#34;&gt;EE3201 Circuit
-Analysis&lt;/a&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE3081_F03&#34;&gt;EE3081 Circuit
-Analysis Laboratory&lt;/a&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;!-- &lt;li&gt;&lt;a href=&#34;http://www.cisl.columbia.edu/~ee3201&#34;&gt;EE3201 Circuit
-Analysis&lt;/a&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;a href=&#34;http://www.cisl.columbia.edu/~ee3081&#34;&gt;EE3081 Circuit Analysis Laboratory&lt;/a&gt;
-&lt;/li&gt; --&gt;
-&lt;/ul&gt;
-
-&lt;tr&gt;
-&lt;td&gt;
-&lt;b&gt;&lt;center&gt;Spring 2003 &lt;/center&gt;&lt;/b&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;!-- &lt;li&gt;&lt;a href=&#34;http://www.columbia.edu/cu/bulletin/uwb/subj/ELEN/E1201-20031-001/index.html&#34;&gt;EE1201 Introduction to Electrical Engineering&lt;/a&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;a href=&#34;http://www.cisl.columbia.edu/~e1201&#34;&gt;EE1201 Introduction to Electrical Engineering&lt;/a&gt;&lt;/li&gt; --&gt;
-&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE1201_S03&#34;&gt;EE1201 Introduction to Electrical Engineering&lt;/a&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;b&gt;&lt;center&gt;Fall 2002 &lt;/center&gt;&lt;/b&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE3201_F02/ee3201.html&#34;&gt;EE3201 Circuit Analysis&lt;/a&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE3081_F02/ee3081.html&#34;&gt;EE3081 Circuit Analysis Laboratory&lt;/a&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;b&gt;&lt;center&gt;Spring 2002 &lt;/center&gt;&lt;/b&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;a href=&#34;http://www.ee.columbia.edu/~kinget/EE4303_S02/ee4303.html&#34;&gt;EE4303 Analog IC Design&lt;/a&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td valign=&#34;top&#34;&gt;
-&lt;b&gt;&lt;center&gt;Spring 1998 &lt;/center&gt;&lt;/b&gt;
-&lt;/td&gt;
-&lt;td valign=&#34;top&#34;&gt;
-EE6304: Advanced Electronic Circuits: &lt;br&gt;Analog/RF Integrated Circuits for Wireless Applications
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/table&gt;</description>
     </item>
     <item>
       <title>Publications</title>
