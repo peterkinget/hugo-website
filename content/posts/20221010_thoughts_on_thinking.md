@@ -1,5 +1,5 @@
 ---
-title: "Thoughs on thinking"
+title: "Thoughts on thinking"
 date: 2022-10-22T11:58:27-04:00
 tags: 
 - opinion

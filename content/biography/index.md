@@ -1,16 +1,7 @@
 ---
-title: "Biography and Contact"
+title: "Biographies"
 date: 2025-01-25
 ---
-
-## Contact
-
-[Location](/location/)
-
-[Location2](../location/)
-
-
-## Biographies
 
 |&nbsp; [Biography](#biography)  &nbsp;&nbsp;|&nbsp;&nbsp;    [Shorter Biography](#shorter-biography) &nbsp;&nbsp;|&nbsp;&nbsp;    [Short Biography](#short-biography) &nbsp;|
 

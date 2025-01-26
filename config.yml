@@ -10,9 +10,12 @@ taxonomies:
 
 menu:
     main:
-    - name: Bio & Contact
+    - name: Bio
       url: biography
       weight: 10
+    - name: Contact
+      url: contact
+      weight: 15
     - name: Research Group
       url: 'http://www.kingetgroup.ee.columbia.edu/'
       weight: 30
@@ -24,7 +27,7 @@ menu:
       weight: 15
     - name: Why Analog
       url: why_analog
-      weight: 115
+      weight: 45
     - name: Posts
       url: posts
       weight: 50
@@ -86,7 +89,7 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: "Bio & Contact"
+            - name: Bio
               url: biography
             - name: Teaching
               url: teaching/
@@ -94,20 +97,20 @@ params:
               url: publications/
             - name: Research Group 
               url: "https://www.kingetgroup.ee.columbia.edu"
-            - name: Posts
-              url: posts
             - name: Why Analog
               url: why_analog
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive
+            - name: Posts
+              url: posts
+#             - name: Tags
+#               url: tags/
+#             - name: Archive
+#               url: archive
     socialIcons:
      - name: email
        title: Send Me E-mail
        url: "mailto:no_email@kinget.net"
      - name: location
-       url: location/
+       url: contact
      - name: Office Hours
        url: officehours
      - name: Zoom

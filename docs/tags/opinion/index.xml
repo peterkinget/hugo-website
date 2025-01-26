@@ -2,25 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Opinion on Peter R. Kinget</title>
-    <link>https://peterkinget.github.io/hugo-website/tags/opinion/</link>
+    <link>http://localhost:1313/hugo-website/tags/opinion/</link>
     <description>Recent content in Opinion on Peter R. Kinget</description>
     <generator>Hugo -- 0.141.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Oct 2022 11:58:27 -0400</lastBuildDate>
-    <atom:link href="https://peterkinget.github.io/hugo-website/tags/opinion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Jan 2025 11:58:27 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo-website/tags/opinion/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Thoughs on thinking</title>
-      <link>https://peterkinget.github.io/hugo-website/posts/20221010_thoughts_on_thinking/</link>
+      <title>Under Construction</title>
+      <link>http://localhost:1313/hugo-website/posts/20250125/</link>
+      <pubDate>Sat, 25 Jan 2025 11:58:27 -0400</pubDate>
+      <guid>http://localhost:1313/hugo-website/posts/20250125/</guid>
+      <description>&lt;p&gt; UNDER CONSTRUCTION --
+&lt;br&gt;
+&lt;p&gt; IGNORE this section of the website PLEASE ...</description>
+    </item>
+    <item>
+      <title>Thoughts on thinking</title>
+      <link>http://localhost:1313/hugo-website/posts/20221010_thoughts_on_thinking/</link>
       <pubDate>Sat, 22 Oct 2022 11:58:27 -0400</pubDate>
-      <guid>https://peterkinget.github.io/hugo-website/posts/20221010_thoughts_on_thinking/</guid>
+      <guid>http://localhost:1313/hugo-website/posts/20221010_thoughts_on_thinking/</guid>
       <description>&lt;p&gt;Here come some thoughts on thinking. Of course this is very personal and
 not work related. And it is very opinionated &amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>What is happening on this day</title>
-      <link>https://peterkinget.github.io/hugo-website/posts/20221022_whatishappeningtoday/</link>
+      <link>http://localhost:1313/hugo-website/posts/20221022_whatishappeningtoday/</link>
       <pubDate>Sat, 22 Oct 2022 11:38:09 -0400</pubDate>
-      <guid>https://peterkinget.github.io/hugo-website/posts/20221022_whatishappeningtoday/</guid>
+      <guid>http://localhost:1313/hugo-website/posts/20221022_whatishappeningtoday/</guid>
       <description>&lt;h2 id=&#34;we-will-start-with-a-nice-title-&#34;&gt;We will start with a nice title &amp;hellip;&lt;/h2&gt;
 &lt;p&gt;This is a new post. You ask what is happening today. Remains to be seen,
 the day is not over yet &amp;hellip;&lt;/p&gt;

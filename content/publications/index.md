@@ -4,8 +4,6 @@ date: 2022-10-15T18:18:32-04:00
 draft: false
 ---
 
-
-
 <p> Publications are listed by type and in chronological order, so the most
 recent ones are at the end. Here are some short links to jump to various
 sections.
