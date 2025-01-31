@@ -5,7 +5,7 @@ draft: false
 ---
 # Education Projects
 
-## [VLSI Design Lab](https://www.ee.columbia.edu/~kinget/vlsidesignlab)
+## [VLSI Design Lab](https://vlsidesignlab.org)
 
 
 
