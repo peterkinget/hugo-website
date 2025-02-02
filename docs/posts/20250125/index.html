@@ -5,9 +5,11 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>New Website | Peter R. Kinget</title>
-<meta name="keywords" content="">
-<meta name="description" content="Proud to present my new website developed with Hugo and hosted on GitHub Pages. I plan to write up a HowTo post in the near future.">
+<title>New Website with Hugo and GitHub Pages | Peter R. Kinget</title>
+<meta name="keywords" content="HUGO, websites">
+<meta name="description" content="Proud to present my new website developed with Hugo and hosted on GitHub Pages. I plan to write up a HowTo post in the near future.
+How did I build this website?
+NOTE: I am not trying to write a full tutorial, there are (too) many already out there. I am outlining how I went about building this website and I am documenting some things I had to learn the hard way, i.e. lost too much time for something that was relatively simple in hindsight but I just did not find it easily in the existing tutorials.">
 <meta name="author" content="Peter R. Kinget">
 <link rel="canonical" href="https://peterkinget.github.io/hugo-website/posts/20250125/">
 <link crossorigin="anonymous" href="/hugo-website/assets/css/stylesheet.e690afcd5c523330d5c8b4d746eb158361600a015e99518d4d246a6ccab0cc19.css" integrity="sha256-5pCvzVxSMzDVyLTXRusVg2FgCgFemVGNTSRqbMqwzBk=" rel="preload stylesheet" as="style">
@@ -26,16 +28,20 @@
         }
 
     </style>
-</noscript><meta property="og:title" content="New Website" />
-<meta property="og:description" content="Proud to present my new website developed with Hugo and hosted on GitHub Pages. I plan to write up a HowTo post in the near future." />
+</noscript><meta property="og:title" content="New Website with Hugo and GitHub Pages" />
+<meta property="og:description" content="Proud to present my new website developed with Hugo and hosted on GitHub Pages. I plan to write up a HowTo post in the near future.
+How did I build this website?
+NOTE: I am not trying to write a full tutorial, there are (too) many already out there. I am outlining how I went about building this website and I am documenting some things I had to learn the hard way, i.e. lost too much time for something that was relatively simple in hindsight but I just did not find it easily in the existing tutorials." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://peterkinget.github.io/hugo-website/posts/20250125/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2025-01-25T00:00:00+00:00" />
 <meta property="article:modified_time" content="2025-01-25T00:00:00+00:00" />
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="New Website"/>
-<meta name="twitter:description" content="Proud to present my new website developed with Hugo and hosted on GitHub Pages. I plan to write up a HowTo post in the near future."/>
+<meta name="twitter:title" content="New Website with Hugo and GitHub Pages"/>
+<meta name="twitter:description" content="Proud to present my new website developed with Hugo and hosted on GitHub Pages. I plan to write up a HowTo post in the near future.
+How did I build this website?
+NOTE: I am not trying to write a full tutorial, there are (too) many already out there. I am outlining how I went about building this website and I am documenting some things I had to learn the hard way, i.e. lost too much time for something that was relatively simple in hindsight but I just did not find it easily in the existing tutorials."/>
 
 
 <script type="application/ld+json">
@@ -52,7 +58,7 @@
     {
       "@type": "ListItem",
       "position":  2 ,
-      "name": "New Website",
+      "name": "New Website with Hugo and GitHub Pages",
       "item": "https://peterkinget.github.io/hugo-website/posts/20250125/"
     }
   ]
@@ -62,14 +68,14 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "New Website",
-  "name": "New Website",
-  "description": "Proud to present my new website developed with Hugo and hosted on GitHub Pages. I plan to write up a HowTo post in the near future.\n",
+  "headline": "New Website with Hugo and GitHub Pages",
+  "name": "New Website with Hugo and GitHub Pages",
+  "description": "Proud to present my new website developed with Hugo and hosted on GitHub Pages. I plan to write up a HowTo post in the near future.\nHow did I build this website? NOTE: I am not trying to write a full tutorial, there are (too) many already out there. I am outlining how I went about building this website and I am documenting some things I had to learn the hard way, i.e. lost too much time for something that was relatively simple in hindsight but I just did not find it easily in the existing tutorials.\n",
   "keywords": [
-    
+    "HUGO, websites"
   ],
-  "articleBody": "Proud to present my new website developed with Hugo and hosted on GitHub Pages. I plan to write up a HowTo post in the near future.\n",
-  "wordCount" : "26",
+  "articleBody": "Proud to present my new website developed with Hugo and hosted on GitHub Pages. I plan to write up a HowTo post in the near future.\nHow did I build this website? NOTE: I am not trying to write a full tutorial, there are (too) many already out there. I am outlining how I went about building this website and I am documenting some things I had to learn the hard way, i.e. lost too much time for something that was relatively simple in hindsight but I just did not find it easily in the existing tutorials.\nHUGO I am using Hugo since it’s active, has templates, and builds a static website from source files on your computer. You do not get locked into some hosting service’s proprietary publishing software or templates.\nFirst, I googled site:edu “powered by Hugo” to see what templates academics are using. The ones that I liked were ‘PaperMod’, ‘Hugo Cards’, and ‘Hugo Coder’ for a personal profile site; ‘Docks’ and ‘Academic Theme` are probably more suited for a research group site.\nTemplate I settled for PaperMod and more specifically used the modified version by Pascal Michaillet; he provides a template website, that I downloaded through a zip file1 and unzipped on my computer. The template already has the correct hugo folders, includes a config.yml and includes the theme files, so it is very easy to get started. From here on, it was mostly editing the existing files and adding my own materials.\nBuilding Pages You need to get familiar with Markdown since that is the easiest way to write new content. You can also have html files.\nWhen you want to create a page, you have to put a file in the contents folder. E.g. if you make a file first_page.md in contents, then when you run hugo build you will get a file /first_page/index.html generated in the build folder (typically public or docs), which can be accessed as /first_page once you post the site.\nThe .md files need to have the right heading to get processed by hugo:\n--- title: \"First Page\" date: 2025-01-25 description: \"First Page\" --- There are hugo commands to create new contents like hugo new\nStatic material goes into the static folder under the correct subfolder; so, e.g., images for the first_page.md can be put in static/first_page/img/first_image.png and can then be added to first_page.md with ![](img/first_image.png)\nI had an older website and at this point have in many cases brought over the html files and converted them in md files with the right header, but still the html inside; see e.g. Publications\nSome Tips hugo server is very handy to view your webpages in a browser as you are writing them; some times the changes do you take, so you have to exit it and restart it.\nThe links to other pages or static material are sometimes a bit hard to figure out, so hugo server can be quite helpful with that.\nGitHub Pages Some Tips When you update your repository on GitHub, it will start processing the files right away. To see the progress and any possible issues look at Actions for your repository.\nIf you decide to start a hugo site from scratch (and not from a template site like above), then you will likely install the ’theme’ using git. Make sure to add it as a submodule, since you will sync your overall folder to your own repository. You will need to use something like git submodule add and not git clone, otherwise GitHub will later have trouble publishing your site (see Actions mentioned above).\nTO-DO Add commenting to posts using utterances. By using zip instead of git clone it’s easier to then later connect the folder to your own GitHub repository. ↩︎\n",
+  "wordCount" : "627",
   "inLanguage": "en",
   "datePublished": "2025-01-25T00:00:00Z",
   "dateModified": "2025-01-25T00:00:00Z",
@@ -186,18 +192,85 @@
   <header class="post-header">
     
     <h1 class="post-title entry-hint-parent">
-      New Website
+      New Website with Hugo and GitHub Pages
     </h1>
     <div class="post-meta"><span title='2025-01-25 00:00:00 +0000 UTC'>January 2025</span>&nbsp;&middot;&nbsp;Peter R. Kinget
 
 </div>
   </header> 
   <div class="post-content"><p>Proud to present my new website developed with Hugo and hosted on GitHub Pages. I plan to write up a HowTo post in the near future.</p>
+<h1 id="how-did-i-build-this-website">How did I build this website?</h1>
+<p><strong>NOTE:</strong> <em>I am not trying to write a full tutorial, there are (too) many already out there. I am outlining how I went about building this website and I am documenting some things I had to learn the hard way, i.e. lost too much time for something that was relatively simple in hindsight but I just did not find it easily in the existing tutorials.</em></p>
+<h2 id="hugo">HUGO</h2>
+<p>I am using <a href="https://gohugo.io/" target="_blank">Hugo</a> since it&rsquo;s active, has templates, and builds a static website from source files on your computer. You do not get locked into some hosting service&rsquo;s proprietary publishing software or templates.</p>
+<p>First, I googled <a href="https://www.google.com/search?q=site:.edu&#43;%22powered&#43;by&#43;hugo%22" target="_blank">site:edu &ldquo;powered by Hugo&rdquo;</a> to see what templates academics are using. The ones that I liked were &lsquo;PaperMod&rsquo;, &lsquo;Hugo Cards&rsquo;, and &lsquo;Hugo Coder&rsquo; for a personal profile site; &lsquo;Docks&rsquo; and &lsquo;Academic Theme` are probably more suited for a research group site.</p>
+<h3 id="template">Template</h3>
+<p>I settled for <a href="https://github.com/adityatelange/hugo-PaperMod/" target="_blank">PaperMod</a> and more specifically used the <a href="https://pascalmichaillat.org/d5/" target="_blank">modified version by Pascal Michaillet</a>; he provides a <a href="https://github.com/pmichaillat/hugo-website" target="_blank">template website</a>, that I downloaded through a zip file<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> and unzipped on my computer. The template already has the correct hugo folders, includes a <code>config.yml</code> and includes the theme files,  so it is very easy to get started. From here on, it was mostly editing the existing files and adding my own materials.</p>
+<h3 id="building-pages">Building Pages</h3>
+<ul>
+<li>
+<p>You need to get familiar with Markdown since that is the easiest way to write new content. You can also have <code>html</code> files.</p>
+</li>
+<li>
+<p>When you want to create a page, you have to put a file in the <code>contents</code> folder. E.g. if you make a file <code>first_page.md</code> in <code>contents</code>, then when you run <code>hugo build</code> you will get a file <code>/first_page/index.html</code> generated in the build folder (typically <code>public</code> or <code>docs</code>), which can be accessed as <code>&lt;baseURL&gt;/first_page</code> once you post the site.</p>
+</li>
+<li>
+<p>The <code>.md</code> files need to have the right heading to get processed by <code>hugo</code>:</p>
+</li>
+</ul>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-fallback" data-lang="fallback"><span style="display:flex;"><span>---
+</span></span><span style="display:flex;"><span>title: &#34;First Page&#34;
+</span></span><span style="display:flex;"><span>date: 2025-01-25
+</span></span><span style="display:flex;"><span>description: &#34;First Page&#34;
+</span></span><span style="display:flex;"><span>--- 
+</span></span></code></pre></div><ul>
+<li>
+<p>There are hugo commands to create new contents like <code>hugo new</code></p>
+</li>
+<li>
+<p>Static material goes into the <code>static</code> folder under the correct subfolder; so, e.g., images for the <code>first_page.md</code> can be put in <code>static/first_page/img/first_image.png</code> and can then be added to <code>first_page.md</code> with <code>![](img/first_image.png)</code></p>
+</li>
+<li>
+<p>I had an <a href="https://www.ee.columbia.edu/~kinget/home.html" target="_blank">older website</a> and at this point have in many cases brought over the <code>html</code> files and converted them in <code>md</code> files with the right header, but still the html inside; see e.g. <a href="../../publications/">Publications</a></p>
+</li>
+</ul>
+<h3 id="some-tips">Some Tips</h3>
+<ul>
+<li>
+<p><code>hugo server</code> is very handy to view your webpages in a browser as you are writing them; some times the changes do you take, so you have to exit it and restart it.</p>
+</li>
+<li>
+<p>The links to other pages or static material are sometimes a bit hard to figure out, so <code>hugo server</code> can be quite helpful with that.</p>
+</li>
+</ul>
+<h2 id="github-pages">GitHub Pages</h2>
+<h3 id="some-tips-1">Some Tips</h3>
+<ul>
+<li>
+<p>When you update your repository on GitHub, it will start processing the files right away. To see the progress and any possible issues look at <code>Actions</code> for your repository.</p>
+</li>
+<li>
+<p>If you decide to start a hugo site from scratch (and not from a template site like above), then you will likely install the &rsquo;theme&rsquo; using git. Make sure to add it as a submodule, since you will sync your overall folder to your own repository. You will need to use something like <code>git submodule add &lt;URL_for_theme_repository&gt; &lt;theme_folder&gt;</code> and not <code>git clone</code>, otherwise GitHub will later have trouble publishing your site (see <code>Actions</code> mentioned above).</p>
+</li>
+</ul>
+<h2 id="to-do">TO-DO</h2>
+<ul>
+<li>Add commenting to posts using <code>utterances</code>.</li>
+</ul>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>By using zip instead of <code>git clone</code> it&rsquo;s easier to then later connect the folder to your own GitHub repository.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
 
   </div>
 
   <footer class="post-footer">
     <ul class="post-tags">
+      <li><a href="https://peterkinget.github.io/hugo-website/tags/hugo-websites/">HUGO, Websites</a></li>
     </ul>
   </footer>
 </article>
