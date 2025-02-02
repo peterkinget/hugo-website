@@ -118,7 +118,7 @@ params:
      - name: Zoom
        url: https://www.zoom.us/my/peterkinget
      - name: Google Scholar
-       url: "https://scholar.google.com/citations?user=-9V6YLkAAAAJ&hl=en"
+       url: "https://scholar.google.com/citations?user=Craj5M0AAAAJ"
      - name: linkedin
        title: See My LinkedIn Profile
        url: "https://www.linkedin.com/in/peter-kinget-7481a3/"
