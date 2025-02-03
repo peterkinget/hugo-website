@@ -39,7 +39,7 @@ Corporation, Department of Energy (ARPA-E), Department of Defense
 (DARPA), and an IBM Faculty Award. It has further received in-kind and
 grant support from several of the major semiconductor companies.
 
-Dr. Kinget is a Fellow of the [IEEE](http://www.ieee.org). He was an
+Dr. Kinget is a [Fellow](https://en.wikipedia.org/wiki/List_of_fellows_of_IEEE_Solid-State_Circuits_Society) of the [IEEE](http://www.ieee.org). He was an
 elected member of the [IEEE Solid-State Circuits](http://sscs.ieee.org)
 Society Adcom, the society's governing board (2011-2013 & 2014-2016),
 and was a member of the Board of the Armstrong Memorial Research
@@ -81,7 +81,7 @@ Peter R. Kinget received an engineering degree in electrical and mechanical engi
 He has worked in industrial research and development at Bell Laboratories, Broadcom, Celight and Multilink before joining the faculty of the Department of Electrical Engineering, Columbia University, NY in 2002, where he currently is the [Bernard J. Lechner](https://en.wikipedia.org/wiki/Bernard_J._Lechner) Professor of [Electrical
 Engineering](https://www.ee.columbia.edu). He served as Department Chair from 2017-2020. He is also a consulting expert on patent litigation and a technical consultant to industry. His research interests are in analog, RF and power integrated circuits and the applications they enable in communications, sensing, and power management.
 
-Peter is widely published and received several awards. He is a Fellow of the IEEE. He has been a "Distinguished Lecturer" for the IEEE Solid-State Circuits Society (SSCS), and an Associate Editor of the IEEE Journal of Solid State Circuits (2003-2007) and the IEEE Transactions on Circuits and Systems II (2008-2009). He has served on the program committees of many of the major solid-state circuits conferences and has been an elected member of the IEEE SSCS Adcom (2011-2013 & 2014-2016).
+Peter is widely published and received several awards. He is a [Fellow](https://en.wikipedia.org/wiki/List_of_fellows_of_IEEE_Solid-State_Circuits_Society) of the IEEE. He has been a "Distinguished Lecturer" for the IEEE Solid-State Circuits Society (SSCS), and an Associate Editor of the IEEE Journal of Solid State Circuits (2003-2007) and the IEEE Transactions on Circuits and Systems II (2008-2009). He has served on the program committees of many of the major solid-state circuits conferences and has been an elected member of the IEEE SSCS Adcom (2011-2013 & 2014-2016).
 
 ### Short Biography
 

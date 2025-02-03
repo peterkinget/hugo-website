@@ -61,6 +61,13 @@ params:
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
+#     footer:
+#       # Set this to true if you want to hide the copyright text
+#       hideCopyright: true
+#       # Set this to true if you want to hide the entire footer
+#       hideFooter: true
+#       # Add custom footer text or HTML
+#       text: "© 2025 Your Name | Built with <a href='https://gohugo.io/'>Hugo</a> and <a href='https://adityatelange.github.io/hugo-PaperMod/'>PaperMod</a>"
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
@@ -72,7 +79,7 @@ params:
     ShowAllPagesInArchive: false
     MainSections: ["books","courses","papers","data"]
     ShowToc: false
-    disableScrollToTop: true
+    disableScrollToTop: false
     TocOpen: true
     ShowWordCount: false
     UseHugoToc: true
