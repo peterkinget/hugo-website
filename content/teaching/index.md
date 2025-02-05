@@ -2,6 +2,7 @@
 title: "Teaching"
 date: 2025-01-25T19:21:49-04:00
 draft: false
+showToc: true
 ---
 # Education Projects
 

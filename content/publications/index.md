@@ -1,18 +1,19 @@
 ---
 title: "Publications"
 date: 2025-01-25T18:18:32-04:00
+ShowToc: true
 draft: false
 ---
 
 <p> Publications are listed by type and in chronological order, so the most
-recent ones are at the end. Here are some short links to jump to various
-sections.
+recent ones are at the end. <!-- Here are some short links to jump to various
+sections. -->
 
-<center>
+<!-- <center>
 
 | [Books](#books) | [Book Chapters](#book-chapters) | [PhD Theses](#phd-theses) | [Journal Papers](#journal-papers) | [Conference Papers](#conference-papers) | [Tutorials](#tutorials) | [Patents](#patents) |
 
-</center>
+</center> -->
 
 ## Books 
 

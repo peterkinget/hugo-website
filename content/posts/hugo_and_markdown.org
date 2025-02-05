@@ -1,6 +1,7 @@
 ---
 title: "Starting with HUGO and Markdown"
 date: 2022-10-22
+expiryDate: 2025-01-01
 tags: 
 - hugo
 - markdown

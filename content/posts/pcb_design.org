@@ -1,6 +1,7 @@
 ---
 title: "PCB Design"
 date: 2022-09-01
+expiryDate: 2025-01-01
 categories:
 - howto
 tags:

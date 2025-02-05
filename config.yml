@@ -7,6 +7,7 @@ enableRobotsTXT: true
 
 taxonomies:
     tag: tags
+    categories: categories
 
 menu:
     main:
@@ -29,31 +30,29 @@ menu:
     - name: Why Analog
       url: why_analog
       weight: 45
-    - name: Posts
-      url: posts
+    - identifier: posts
+      name: Posts
+      url: posts/
       weight: 50
+#       params: 
+#         expand: true
+#     - identifier: tags
+#       name: Tags
+#       url: tags/
+#       parent: posts
+#       weight: 52
+#     - identifier: categories
+#       name: categories
+#       url: categories/
+#       parent: posts
+#       weight: 53
 #     - name: Tags
 #       url: /tags
 #       weight: 116
 #     - name: Categories
 #       url: /categories
 #       weight: 117
-#         - name: Books
-#           url: books/
-#           weight: 5 
-#         - name: Papers
-#           url: papers/
-#           weight: 2
-#         - name: Courses
-#           url: courses/
-#           weight: 3
-#         - name: Data
-#           url: data/
-#           weight: 4 
-#         - name: Blog
-#           url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-#           weight: 6
-# 
+#         
 params:
     description: "I am a professor"
     author: Peter R. Kinget
@@ -70,21 +69,27 @@ params:
 #       text: "© 2025 Your Name | Built with <a href='https://gohugo.io/'>Hugo</a> and <a href='https://adityatelange.github.io/hugo-PaperMod/'>PaperMod</a>"
     disableThemeToggle: true
     ShowShareButtons: false
-    ShowReadingTime: false
+    ShowReadingTime: true
     disableSpecial1stPost: true
     disableAnchoredHeadings: true
-    ShowPostNavLinks: false
-    ShowBreadCrumbs: false
+
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
     MainSections: ["books","courses","papers","data"]
-    ShowToc: false
     disableScrollToTop: false
     TocOpen: true
     ShowWordCount: false
     UseHugoToc: true
     comments: false
     math: true
+
+    ShowPostNavLinks: false
+    ShowToc: false
+    ShowTaxonomies: false
+    ShowBreadCrumbs: false
+    ShowTags: true
+    ShowCategories: true
+
     profileMode:
           enabled: true
           title: Peter R. Kinget
@@ -161,8 +166,9 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Home"
-      icon: images/favicon.ico
+      text: "Peter Kinget"
+#      icon: images/PK_logo_2_no_background.png
+      icon: images/old_favicon.ico
       iconHeight: 18
 
 markup:
