@@ -3,10 +3,11 @@ title: "Teaching"
 date: 2025-01-25T19:21:49-04:00
 draft: false
 showToc: true
+tags: ["MOSbius", "vlsiDesignLab"]
 ---
-# Education Projects
+## Education Projects
 
-## [VLSI Design Lab](https://vlsidesignlab.org)
+### [VLSI Design Lab](https://vlsidesignlab.org)
 
 
 
@@ -26,11 +27,11 @@ showToc: true
    </td>
 </tr></table>
 
-## [MOSbius](https://mosbius.org)
+### [MOSbius](https://mosbius.org)
 
 {{< figure src="images/MobiusChip_overview.png" caption="Overview of the MOSbius platform. Transistors and circuits on the MOSbius chip allow the student to create an electronic circuit that they can evaluate experimentally to learn to connect design, analyis, simulation and measurements.">}}
 
-# Courses
+## Courses
 
 <h4>Spring 2024:</h4>
 <ul>

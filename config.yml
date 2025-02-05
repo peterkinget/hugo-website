@@ -36,9 +36,9 @@ menu:
       weight: 50
 #       params: 
 #         expand: true
-#     - identifier: tags
-#       name: Tags
-#       url: tags/
+    - identifier: tags
+      name: Tags
+      url: tags/
 #       parent: posts
 #       weight: 52
 #     - identifier: categories
@@ -75,7 +75,7 @@ params:
 
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["biography","publications","teaching","posts"]
     disableScrollToTop: false
     TocOpen: true
     ShowWordCount: false
@@ -115,8 +115,8 @@ params:
               url: why_analog
             - name: Posts
               url: posts
-#             - name: Tags
-#               url: tags/
+            - name: Tags
+              url: tags/
 #             - name: Archive
 #               url: archive
     socialIcons:
@@ -161,7 +161,7 @@ params:
 #           url: https://twitter.com/McCallSmith
 # 
     assets:
-        disableScrollBarStyle: true
+        disableScrollBarStyle: false
     cover:
         hiddenInList: false
         hiddenInSingle: true
@@ -169,7 +169,7 @@ params:
       text: "Peter Kinget"
 #      icon: images/PK_logo_2_no_background.png
       icon: images/old_favicon.ico
-      iconHeight: 18
+      iconHeight: 22
 
 markup:
     goldmark:
