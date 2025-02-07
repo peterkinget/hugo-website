@@ -14,6 +14,8 @@ In Spring 2025, office hours are by appointment. [Email me](mailto:pk171+website
 
 #### Location
 
-By default meetings are in my office [CEPSR 1009](../contact/). I am also available for virtual meetings on [Zoom](https://www.zoom.us/my/peterkinget).
+By default meetings are in my office [CEPSR 1009](../contact/). 
+
+I am also available for virtual meetings on [Zoom](https://www.zoom.us/my/peterkinget).
 
 ---

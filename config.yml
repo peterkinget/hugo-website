@@ -54,8 +54,12 @@ menu:
 #       weight: 117
 #         
 params:
-    description: "I am a professor"
-    author: Peter R. Kinget
+    author: Peter R. Kinget  # author & description for HTML META tags
+    description: "Bernard J. Lechner Professor of [Electrical Engineering](https://www.ee.columbia.edu) 
+               at [Columbia University in the City of New York](https://www.columbia.edu). 
+               His research focusses on the design of analog and RF integrated circuits 
+               and the novel systems or applications they enable in communications, sensing, computation,
+               and power management."
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -74,10 +78,12 @@ params:
     disableAnchoredHeadings: true
 
     ShowCodeCopyButtons: true
+    # for Archives
     ShowAllPagesInArchive: false
-    MainSections: ["biography","publications","teaching","posts"]
+    MainSections: ["posts"]
+
     disableScrollToTop: false
-    TocOpen: true
+
     ShowWordCount: false
     UseHugoToc: true
     comments: false
@@ -85,6 +91,8 @@ params:
 
     ShowPostNavLinks: false
     ShowToc: false
+    TocOpen: true
+
     ShowTaxonomies: false
     ShowBreadCrumbs: false
     ShowTags: true
@@ -117,8 +125,10 @@ params:
               url: posts
             - name: Tags
               url: tags/
-#             - name: Archive
-#               url: archive
+            - name: Archive
+              url: archive
+            - name: Search
+              url: search/
     socialIcons:
      - name: email
        title: Send Me E-mail
@@ -182,3 +192,10 @@ markup:
         endLevel: 2
         ordered: false
         startLevel: 2
+
+# for search
+outputs:
+     home:
+         - HTML
+         - RSS
+         - JSON
