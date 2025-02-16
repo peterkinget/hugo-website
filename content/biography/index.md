@@ -44,9 +44,7 @@ Dr. Kinget is a [Fellow](https://en.wikipedia.org/wiki/List_of_fellows_of_IEEE_S
 elected member of the [IEEE Solid-State Circuits](http://sscs.ieee.org)
 Society Adcom, the society's governing board (2011-2013 & 2014-2016),
 and was a member of the Board of the Armstrong Memorial Research
-Foundation (2008-2018).  He was a "Distinguished Lecturer" for the IEEE
-Solid-State Circuits Society (2009-2010 & 2015-2017) and an Associate
-Editor of the [IEEE Journal of Solid State
+Foundation (2008-2018).  He is a [Distinguished Lecturer](https://sscs.ieee.org/education/distinguished-lecturer-program/distinguished-lecturer-roster/) for the IEEE Solid-State Circuits Society (2009-2010 & 2015-2017 & 2025-2026) and an Associate Editor of the [IEEE Journal of Solid State
 Circuits](https://sscs.ieee.org/publications/ieee-journal-of-solid-state-circuits-jssc) (2003-2007) and the
 [IEEE Transactions on Circuits and Systems
 II](http://tcas2.polito.it/)(2008-2009). He has served as a member of
@@ -77,17 +75,16 @@ In 2020, he became the inaugural recipient of the [IEEE Solid-State
 
 ## Shorter Biography
 
-Peter R. Kinget received an engineering degree in electrical and mechanical engineering and the Ph.D. in electrical engineering from the [Katholieke Universiteit in Leuven](https://www.kuleuven.be), Belgium.
+[Peter Kinget](https://www.ee.columbia.edu/~kinget) is the [Bernard J. Lechner](https://en.wikipedia.org/wiki/Bernard_J._Lechner) Professor of [Electrical Engineering at Columbia University in New York](https://www.ee.columbia.edu/). His research group focusses on the design of analog and RF integrated circuits and the novel systems or applications they enable in communications, sensing, computing, and power management. He  devotes a lot of his energy to teaching initiatives like [https://mosbius.org](https://mosbius.org/) and  [https://vlsidesignlab.org](https://vlsidesignlab.org)
 
-He has worked in industrial research and development at Bell Laboratories, Broadcom, Celight and Multilink before joining the faculty of the Department of Electrical Engineering, Columbia University, NY in 2002, where he currently is the [Bernard J. Lechner](https://en.wikipedia.org/wiki/Bernard_J._Lechner) Professor of [Electrical
-Engineering](https://www.ee.columbia.edu). He served as Department Chair from 2017-2020. He is also a consulting expert on patent litigation and a technical consultant to industry. His research interests are in analog, RF and power integrated circuits and the applications they enable in communications, sensing, and power management.
+He received his engineering and Ph.D. degrees in electrical engineering from the [Katholieke Universiteit in Leuven](https://www.kuleuven.be/) (Belgium). He has worked in industrial research and development at Bell Laboratories, Broadcom, Celight and Multilink before joining the faculty of the Department of Electrical Engineering, Columbia University, NY in 2002. He served as Department Chair from 2017-2020. He is also a consulting expert on patent litigation and a technical consultant to industry. 
 
-Peter is widely published and received several awards. He is a [Fellow](https://en.wikipedia.org/wiki/List_of_fellows_of_IEEE_Solid-State_Circuits_Society) of the IEEE. He has been a "Distinguished Lecturer" for the IEEE Solid-State Circuits Society (SSCS), and an Associate Editor of the IEEE Journal of Solid State Circuits (2003-2007) and the IEEE Transactions on Circuits and Systems II (2008-2009). He has served on the program committees of many of the major solid-state circuits conferences and has been an elected member of the IEEE SSCS Adcom (2011-2013 & 2014-2016).
+Peter is a [Fellow](https://en.wikipedia.org/wiki/List_of_fellows_of_IEEE_Solid-State_Circuits_Society) of the [IEEE](https://ieee.org) and is widely published. He received several awards including the [IEEE Solid-State Circuits Society 2020 Innovative Education Award](https://sscs.ieee.org/membership/awards/ieee-solid-state-circuits-society-innovative-education-award) and the “2011 IEEE Communications Society Award for Advances in Communication” (for an outstanding paper in any IEEE Communications Society publication in the past 15 years). He is a [Distinguished Lecturer](https://sscs.ieee.org/education/distinguished-lecturer-program/distinguished-lecturer-roster/) for the IEEE Solid-State Circuits Society (SSCS), and has been an Associate Editor of the IEEE Journal of Solid State Circuits (2003-2007) and the IEEE Transactions on Circuits and Systems II (2008-2009). He has served on the program committees of many of the major solid-state circuits conferences and has been an elected member of the IEEE SSCS Adcom (2011-2013 & 2014-2016).
 
 ## Short Biography
 
 Peter Kinget is the [Bernard J. Lechner](https://en.wikipedia.org/wiki/Bernard_J._Lechner) Professor of [Electrical
-Engineering at Columbia University in New York](https://www.ee.columbia.edu). He received his engineering and Ph.D. degrees in electrical engineering from the [Katholieke Universiteit in Leuven](https://www.kuleuven.be) (Belgium). His research group focusses on the design of analog and RF integrated circuits and the novel systems or applications they enable in communications, sensing, and power management.    
+Engineering at Columbia University in New York](https://www.ee.columbia.edu). He received his engineering and Ph.D. degrees in electrical engineering from the [Katholieke Universiteit in Leuven](https://www.kuleuven.be) (Belgium). His research group focusses on the design of analog and RF integrated circuits and the novel systems or applications they enable in communications, sensing, computation, and power management.    
 
 ## Photos
 <!-- 
@@ -105,5 +102,5 @@ Engineering at Columbia University in New York](https://www.ee.columbia.edu). He
 
  1996 | 2011 | 2024 |
  |:---:|:---:|:---:|
-| ![](../images/photo_1996.gif) | {{< figure src="../images/photo_jan_2011.png" height="200px">}} | {{< figure src="../images/photo_hat_2024.png" height="200px">}} |
+|  {{< figure src="../images/photo_1996.gif" height="200px">}} | {{< figure src="../images/photo_jan_2011.png" height="200px">}} | {{< figure src="../images/photo_hat_2024.png" height="200px">}} |
 

@@ -149,24 +149,12 @@ params:
        url: "https://github.com/peterkinget"
      - name: Youtube
        url: https://www.youtube.com/@vlsidesignlabcourse
-#         - name: CV
-#           url: cv.pdf
-#         - name: Email
-#           url: mailto:moritz.maria.von.igelfeld@gmail.com
-#         - name: Zoom
-#           url: https://www.zoom.us/my/igelfeld
-#         - name: Location
-#           url: location/
-#         - name: Office Hours
-#           url: officehours/
-#         - name: Google Scholar
-#           url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-#         - name: GitHub
-#           url: https://github.com/pmichaillat
+     - name: orcid
+       url: https://orcid.org/0000-0002-5707-6394
 #         - name: Substack
 #           url: https://pmichaillat.substack.com
-#         - name: YouTube
-#           url: https://www.youtube.com/@alexandermccallsmithoffici9000
+#         - name: CV
+#           url: cv.pdf
 #         - name: Twitter
 #           url: https://twitter.com/McCallSmith
 # 

@@ -2,82 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://peterkinget.github.io/hugo-website/tags/mosbius/</loc>
+    <loc>http://localhost:1313/hugo-website/tags/mosbius/</loc>
     <lastmod>2025-01-25T19:21:49-04:00</lastmod>
   </url><url>
-    <loc>https://peterkinget.github.io/hugo-website/</loc>
+    <loc>http://localhost:1313/hugo-website/</loc>
     <lastmod>2025-01-25T19:21:49-04:00</lastmod>
   </url><url>
-    <loc>https://peterkinget.github.io/hugo-website/tags/</loc>
+    <loc>http://localhost:1313/hugo-website/tags/</loc>
     <lastmod>2025-01-25T19:21:49-04:00</lastmod>
   </url><url>
-    <loc>https://peterkinget.github.io/hugo-website/teaching/</loc>
+    <loc>http://localhost:1313/hugo-website/teaching/</loc>
     <lastmod>2025-01-25T19:21:49-04:00</lastmod>
   </url><url>
-    <loc>https://peterkinget.github.io/hugo-website/tags/vlsidesignlab/</loc>
+    <loc>http://localhost:1313/hugo-website/tags/vlsidesignlab/</loc>
     <lastmod>2025-01-25T19:21:49-04:00</lastmod>
   </url><url>
-    <loc>https://peterkinget.github.io/hugo-website/publications/</loc>
+    <loc>http://localhost:1313/hugo-website/publications/</loc>
     <lastmod>2025-01-25T18:18:32-04:00</lastmod>
   </url><url>
-    <loc>https://peterkinget.github.io/hugo-website/biography/</loc>
+    <loc>http://localhost:1313/hugo-website/biography/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://peterkinget.github.io/hugo-website/categories/</loc>
+    <loc>http://localhost:1313/hugo-website/categories/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://peterkinget.github.io/hugo-website/contact/</loc>
+    <loc>http://localhost:1313/hugo-website/contact/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://peterkinget.github.io/hugo-website/first_page/</loc>
+    <loc>http://localhost:1313/hugo-website/first_page/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://peterkinget.github.io/hugo-website/categories/howto/</loc>
+    <loc>http://localhost:1313/hugo-website/categories/howto/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://peterkinget.github.io/hugo-website/tags/hugo/</loc>
+    <loc>http://localhost:1313/hugo-website/tags/hugo/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://peterkinget.github.io/hugo-website/posts/20250125/</loc>
+    <loc>http://localhost:1313/hugo-website/posts/20250125/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://peterkinget.github.io/hugo-website/officehours/</loc>
+    <loc>http://localhost:1313/hugo-website/officehours/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://peterkinget.github.io/hugo-website/posts/</loc>
+    <loc>http://localhost:1313/hugo-website/posts/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://peterkinget.github.io/hugo-website/tags/websites/</loc>
+    <loc>http://localhost:1313/hugo-website/tags/websites/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://peterkinget.github.io/hugo-website/tags/linkedin/</loc>
+    <loc>http://localhost:1313/hugo-website/tags/linkedin/</loc>
     <lastmod>2024-12-20T11:58:27-04:00</lastmod>
   </url><url>
-    <loc>https://peterkinget.github.io/hugo-website/posts/20241220/</loc>
+    <loc>http://localhost:1313/hugo-website/posts/20241220/</loc>
     <lastmod>2024-12-20T11:58:27-04:00</lastmod>
   </url><url>
-    <loc>https://peterkinget.github.io/hugo-website/categories/professional/</loc>
+    <loc>http://localhost:1313/hugo-website/categories/professional/</loc>
     <lastmod>2024-12-20T11:58:27-04:00</lastmod>
   </url><url>
-    <loc>https://peterkinget.github.io/hugo-website/posts/20241223/</loc>
+    <loc>http://localhost:1313/hugo-website/posts/20241223/</loc>
     <lastmod>2024-12-20T11:58:27-04:00</lastmod>
   </url><url>
-    <loc>https://peterkinget.github.io/hugo-website/posts/20240701/</loc>
+    <loc>http://localhost:1313/hugo-website/posts/20240701/</loc>
     <lastmod>2024-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://peterkinget.github.io/hugo-website/posts/20230801/</loc>
+    <loc>http://localhost:1313/hugo-website/posts/20230801/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://peterkinget.github.io/hugo-website/posts/20230410/</loc>
+    <loc>http://localhost:1313/hugo-website/posts/20230410/</loc>
     <lastmod>2023-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://peterkinget.github.io/hugo-website/why_analog/</loc>
+    <loc>http://localhost:1313/hugo-website/why_analog/</loc>
     <lastmod>2022-10-15T19:51:10-04:00</lastmod>
   </url><url>
-    <loc>https://peterkinget.github.io/hugo-website/archive-copy/</loc>
+    <loc>http://localhost:1313/hugo-website/archive/</loc>
   </url><url>
-    <loc>https://peterkinget.github.io/hugo-website/archive/</loc>
-  </url><url>
-    <loc>https://peterkinget.github.io/hugo-website/search/</loc>
+    <loc>http://localhost:1313/hugo-website/search/</loc>
   </url>
 </urlset>

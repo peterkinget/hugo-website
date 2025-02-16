@@ -1475,6 +1475,17 @@ Kinget, <a href="go_google_patents.html">"Low Voltage Comparator
 <li> Zhu, Kinget, <a href="go_google_patents.html">"Circuits for wireless communication on multiple frequency bands."</a> US 10,854,945: (12/01/2020) 
 <li> Mangal, Kinget, <a href="go_google_patents.html">"Circuits For Continuous-Time Clockless Analog Correlators"</a> US 11,050,457: (06/29/2021) 
 <li> Mangal, Kinget, <a href="go_google_patents.html">"Systems, methods, and media for multi-antenna, directional backscatter tags"</a> US 11,281,957: (03/24/2022) 
+
+<li>	Haque, Kinget, Bajor, <a href="go_google_patents.html">"Circuits for Identifying Interferers using Compressed-Sampling"</a>, US 11,374,599: (06/28/2022) 
+
+<li> Bajor, Wright, Haque, Kinget, <a href="go_google_patents.html">"Circuits and Methods for Using Compressive Sampling to Dectect Direction of Arrival of Signal of Interest”</a>, US 11,402,458: (08/02/2022) 
+
+<li> Han, Kinget, Haque, <a href="go_google_patents.html">"Circuits for Intermediate-Frequency-Filterless Double-Conversion Receivers”</a>, US 11,705,932: (07/18/2023) 
+
+<li> Han, Kinget, Haque, <a href="go_google_patents.html">"Circuits for Intermediate-Frequency-Filterless Double-Conversion Receivers”</a>, US 11,791,854: (10/17/2023) 
+
+<li> Wang, Zhang, Kinget, <a href="go_google_patents.html">"Circuits and Methods for Multi-Phase Clock Generators and Phase Interpolators"</a>, US 12,189,413: (01/07/2025) 
+
 </ol>
 
 ## Patent Applications
