@@ -497,6 +497,8 @@ accepted, 2014.
 <li>R. Xu, C.-K. Hsu, S. Kalani, J. Ban, Q. Wang, I. Ochoa, C. Burton, M. Ünal, N. Sun, P. Kinget, J. Parsons, and T. Andeen, <a href="go_ieee.html">"Single-Event Upset Responses of Metal-Oxide-Metal Capacitors and Diodes Used in Bulk 65nm CMOS Analog Circuits,"</a> IEEE Transactions on Nuclear Science, early access online, Feb. 2020; Vol. 67, Issue 4, pp. 698-707, Apr. 2020.
 </li>
  
+ <li>	T. Andeen, J. Ban, G. Brooijmans, A. Emerman, P. Kinget, J. Kuppambatti, D. Mahon, I. Ochoa, W. Sippach, and Q. Wang, <a href="https://doi.org/10.1088/1748-0221/15/04/P04012">“Performance and Quality Control of a Radiation-Hard 12-bit 40MSPS ADC for the ATLAS Liquid Argon Calorimeter Trigger Readout Electronics Phase-I Upgrade at the LHC,”</a> Journal of Instrumentation (JINST), Vol. 15, no 4, P04012, (12 pages) Apr. 2020.
+
 <li>V. Mangal and P. R. Kinget, <a href="go_ieee.html">"Clockless, Continuous-Time Analog Correlator Using Time-Encoded Signal Processing Demonstrating Asynchronous CDMA for Wake-Up Receivers,"</a> IEEE Journal of Solid-State Circuits, early access online, Apr. 2020; Vol. 55, No. 8, pp. 2069-2081, Aug. 2020.
 </li>
  
@@ -520,12 +522,16 @@ accepted, 2014.
  
 <li>Z. Wang, Y. Zhang, Y. Onizuka, and P. R. Kinget, <a href="go_ieee.html">"Multi-Phase Clock Generation for Phase Interpolation with a Multi-Phase, Injection-Locked Ring Oscillator and a Quadrature DLL,"</a> IEEE Journal of Solid-State Circuits, early access online, Nov. 2021.
 
+<li> G. Aad et al., <a href="https://doi.org/10.1088/1748-0221/17/05/P05024">“The Phase-I trigger readout electronics upgrade of the ATLAS Liquid Argon calorimeters,”</a> J. Inst., vol. 17, no. 05, p. P05024, May 2022, doi: 10.1088/1748-0221/17/05/P05024.
 
 <li>Y. Zhang, Z. Wang, and P. R. Kinget, <a href="go_ieee.html">"Analysis of Injection-Locked Ring Oscillators for Quadrature Clock Generation in Wireline or Optical Transceivers,"</a> IEEE Transactions on Circuits and Systems I, early access online, May 2022; vol. 69, no. 8, pp. 3074-3082, Aug. 2022.
 
 <li>S. Ray and P. R. Kinget, <a href="go_ieee.html">"Ultra-Low-Power and Compact-Area Analog Audio Feature Extraction Based on Time-Mode Analog Filterbank Interpolation and Time-Mode Analog Rectification,"</a> IEEE Journal of Solid-State Circuits, vol. 58, no. 4, pp. 1025–1036, Apr. 2023, doi: 10.1109/JSSC.2022.3227246
 
 <li>Z. Wang and P. R. Kinget, <a href="go_ieee.html">"A Very High Linearity Twin Phase Interpolator With a Low-Noise and Wideband Delta Quadrature DLL for High-Speed Data Link Clocking,"</a> IEEE Journal of Solid-State Circuits, vol. 58, no. 4, pp. 1172–1184, Apr. 2023, doi: 10.1109/JSSC.2022.3197061 
+
+
+<li>	G. Aad et al., <a href="https://doi.org/10.1088/1748-0221/19/05/P05063">“The ATLAS experiment at the CERN Large Hadron Collider: a description of the detector configuration for Run 3,”</a> J. Inst., vol. 19, no. 05, p. P05063, May 2024, doi: 10.1088/1748-0221/19/05/P05063.
 
 <li>P. Kinget, <a href="go_ieee.html">"Teaching IC Design: From Concepts to Testing a Fabricated Custom Chip [Society News],"</a> IEEE Solid-State Circuits Magazine, vol. 15, no. 3, pp. 87–93, 2023, doi: 10.1109/MSSC.2023.3283976.
 
