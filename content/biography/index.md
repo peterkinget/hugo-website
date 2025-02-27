@@ -26,19 +26,19 @@ positions in IC design and development at
 joined the faculty of the [Department of Electrical
 Engineering](http://www.ee.columbia.edu), [Columbia
 University,](http://www.columbia.edu) N.Y., where he currently is the
-[Bernard J. Lechner](https://en.wikipedia.org/wiki/Bernard_J._Lechner) Professor of Electrical Engineering.  From 2017-2020
+[Bernard J. Lechner](https://en.wikipedia.org/wiki/Bernard_J._Lechner) Professor of Electrical Engineering.  From 2017 to 2020
 he served as Department Chair. He is also a consulting expert on patent
 litigation and a technical consultant to industry.
 
 His research interests are in analog, RF and power integrated
 circuits and the applications they enable in communications, sensing,
-and power management. He is widely published in journals and
-conferences, has co-authored 3 books and holds 41 US patents with
+computation, and power management. He is widely published in journals and
+conferences, has co-authored 3 books and holds 46 US patents with
 several applications under review. His research group has received
 funding from the National Science Foundation, the Semiconductor Research
 Corporation, Department of Energy (ARPA-E), Department of Defense
 (DARPA), and an IBM Faculty Award. It has further received in-kind and
-grant support from several of the major semiconductor companies.
+grant support from several of the major semiconductor companies including Analog Devices, Apple, Broadcom, Intel, Lucent Technologies, Marvell, Motorola, Mediatek, Realtek, Silicon Labs, ST Microelectronics, Texas Instruments, Toshiba, and UMC.
 
 Dr. Kinget is a [Fellow](https://en.wikipedia.org/wiki/List_of_fellows_of_IEEE_Solid-State_Circuits_Society) of the [IEEE](http://www.ieee.org). He was an
 elected member of the [IEEE Solid-State Circuits](http://sscs.ieee.org)
@@ -47,7 +47,7 @@ and was a member of the Board of the Armstrong Memorial Research
 Foundation (2008-2018).  He is a [Distinguished Lecturer](https://sscs.ieee.org/education/distinguished-lecturer-program/distinguished-lecturer-roster/) for the IEEE Solid-State Circuits Society (2009-2010 & 2015-2017 & 2025-2026) and an Associate Editor of the [IEEE Journal of Solid State
 Circuits](https://sscs.ieee.org/publications/ieee-journal-of-solid-state-circuits-jssc) (2003-2007) and the
 [IEEE Transactions on Circuits and Systems
-II](http://tcas2.polito.it/)(2008-2009). He has served as a member of
+II](http://tcas2.polito.it/) (2008-2009). He has served as a member of
 the Technical Program Committee of the [IEEE Custom Integrated Circuits
 Conference (CICC)](http://www.ieee-cicc.org) (2000-2005, 2016-2018), the
 [Symposium on VLSI Circuits](http://www.vlsisymposium.org) (2003-2006),
@@ -55,15 +55,15 @@ the [European Solid-State Circuits Conference](https://ieeexplore.ieee.org/xpl/c
 (2005-2010), and the [International Solid-State Circuits
 Conference](http://www.isscc.org) (2005-2012).
 
-In 2020, he became the inaugural recipient of the [IEEE Solid-State
+In 2020, he became the inaugural recipient of the ["IEEE Solid-State
   Circuits Society 2020 Innovative Education
-  Award](https://sscs.ieee.org/membership/awards/ieee-solid-state-circuits-society-innovative-education-award). He
+  Award"](https://sscs.ieee.org/membership/awards/ieee-solid-state-circuits-society-innovative-education-award). He
   is also a co-recipient of the "Best Student Paper Award - 1st Place"
   at the 2008 IEEE Radio Frequency Integrated Circuits (RFIC) Symposium,
   of the "First Prize" in the 2009 Vodafone Americas Foundation Wireless
   Innovation Challenge, of the "Best Student Demo Award" at the 2011 ACM
   Conference on Embedded Networked Sensor Systems (ACM SenSys), of the
-  "2011 IEEE Communications Society Award for Advances in Communication"
+  ["2011 IEEE Communications Society Award for Advances in Communication"](https://www.comsoc.org/about/awards/paper-awards/ieee-communications-society-award-advances-communication)
   for an outstanding paper in any IEEE Communications Society
   publication in the past 15 years, of the "First Prize ($100K)" in the
   2012 Interdigital Innovation Challenge (I2C), of the "Best Student
@@ -75,11 +75,11 @@ In 2020, he became the inaugural recipient of the [IEEE Solid-State
 
 ## Shorter Biography
 
-[Peter Kinget](https://www.ee.columbia.edu/~kinget) is the [Bernard J. Lechner](https://en.wikipedia.org/wiki/Bernard_J._Lechner) Professor of [Electrical Engineering at Columbia University in New York](https://www.ee.columbia.edu/). His research group focusses on the design of analog and RF integrated circuits and the novel systems or applications they enable in communications, sensing, computing, and power management. He  devotes a lot of his energy to teaching initiatives like [https://mosbius.org](https://mosbius.org/) and  [https://vlsidesignlab.org](https://vlsidesignlab.org)
+[Peter Kinget](https://www.ee.columbia.edu/~kinget) is the [Bernard J. Lechner](https://en.wikipedia.org/wiki/Bernard_J._Lechner) Professor of [Electrical Engineering at Columbia University in New York](https://www.ee.columbia.edu/). His research group focusses on the design of analog and RF integrated circuits and the novel systems or applications they enable in communications, sensing, computing, and power management. He also devotes a lot of his energy to teaching initiatives like [https://mosbius.org](https://mosbius.org/) and  [https://vlsidesignlab.org](https://vlsidesignlab.org)
 
-He received his engineering and Ph.D. degrees in electrical engineering from the [Katholieke Universiteit in Leuven](https://www.kuleuven.be/) (Belgium). He has worked in industrial research and development at Bell Laboratories, Broadcom, Celight and Multilink before joining the faculty of the Department of Electrical Engineering, Columbia University, NY in 2002. He served as Department Chair from 2017-2020. He is also a consulting expert on patent litigation and a technical consultant to industry. 
+He received his engineering and Ph.D. degrees in electrical engineering from the [Katholieke Universiteit in Leuven](https://www.kuleuven.be/) (Belgium). He has worked in industrial research and development at Bell Laboratories, Broadcom, Celight and Multilink before joining the faculty of the Department of Electrical Engineering, Columbia University, NY in 2002. He served as Department Chair from 2017 to 2020. He is also a consulting expert on patent litigation and a technical consultant to industry. 
 
-Peter is a [Fellow](https://en.wikipedia.org/wiki/List_of_fellows_of_IEEE_Solid-State_Circuits_Society) of the [IEEE](https://ieee.org) and is widely published. He received several awards including the [IEEE Solid-State Circuits Society 2020 Innovative Education Award](https://sscs.ieee.org/membership/awards/ieee-solid-state-circuits-society-innovative-education-award) and the “2011 IEEE Communications Society Award for Advances in Communication” (for an outstanding paper in any IEEE Communications Society publication in the past 15 years). He is a [Distinguished Lecturer](https://sscs.ieee.org/education/distinguished-lecturer-program/distinguished-lecturer-roster/) for the IEEE Solid-State Circuits Society (SSCS), and has been an Associate Editor of the IEEE Journal of Solid State Circuits (2003-2007) and the IEEE Transactions on Circuits and Systems II (2008-2009). He has served on the program committees of many of the major solid-state circuits conferences and has been an elected member of the IEEE SSCS Adcom (2011-2013 & 2014-2016).
+Peter is a [Fellow](https://en.wikipedia.org/wiki/List_of_fellows_of_IEEE_Solid-State_Circuits_Society) of the [IEEE](https://ieee.org) and is widely published. He received several awards including the ["IEEE Solid-State Circuits Society 2020 Innovative Education Award"](https://sscs.ieee.org/membership/awards/ieee-solid-state-circuits-society-innovative-education-award) and the ["2011 IEEE Communications Society Award for Advances in Communication"](https://www.comsoc.org/about/awards/paper-awards/ieee-communications-society-award-advances-communication) (for an outstanding paper in any IEEE Communications Society publication in the past 15 years). He is a ["Distinguished Lecturer"](https://sscs.ieee.org/education/distinguished-lecturer-program/distinguished-lecturer-roster/) for the IEEE Solid-State Circuits Society (SSCS), and has been an Associate Editor of the IEEE Journal of Solid State Circuits (2003-2007) and the IEEE Transactions on Circuits and Systems II (2008-2009). He has served on the program committees of many of the major solid-state circuits conferences and has been an elected member of the IEEE SSCS Adcom (2011-2013 & 2014-2016).
 
 ## Short Biography
 

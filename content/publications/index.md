@@ -530,12 +530,11 @@ accepted, 2014.
 
 <li>Z. Wang and P. R. Kinget, <a href="go_ieee.html">"A Very High Linearity Twin Phase Interpolator With a Low-Noise and Wideband Delta Quadrature DLL for High-Speed Data Link Clocking,"</a> IEEE Journal of Solid-State Circuits, vol. 58, no. 4, pp. 1172–1184, Apr. 2023, doi: 10.1109/JSSC.2022.3197061 
 
-
 <li>	G. Aad et al., <a href="https://doi.org/10.1088/1748-0221/19/05/P05063">“The ATLAS experiment at the CERN Large Hadron Collider: a description of the detector configuration for Run 3,”</a> J. Inst., vol. 19, no. 05, p. P05063, May 2024, doi: 10.1088/1748-0221/19/05/P05063.
 
 <li>P. Kinget, <a href="go_ieee.html">"Teaching IC Design: From Concepts to Testing a Fabricated Custom Chip [Society News],"</a> IEEE Solid-State Circuits Magazine, vol. 15, no. 3, pp. 87–93, 2023, doi: 10.1109/MSSC.2023.3283976.
 
-<li>P. Barac, M. Bajor, and P. R. Kinget, <a href="go_ieee.html">"Time-Modulated-LO-Path Vector Modulators for Beamforming Receivers,"</a> IEEE Solid-State Circuits Letters, Special Issue on the Custom Integrated Circuits Conference, invited, accepted for publication, Sept. 2024. doi: 10.1109/LSSC.2024.3478837
+<li>P. Barac, M. Bajor, and P. R. Kinget, <a href="go_ieee.html">"Time-Modulated-LO-Path Vector Modulators for Beamforming Receivers,"</a> IEEE Solid-State Circuits Letters, Special Issue on the Custom Integrated Circuits Conference, <b>invited,</b> accepted for publication, Sept. 2024. doi: 10.1109/LSSC.2024.3478837
 
 </ol>
 </ul>
@@ -1285,15 +1284,19 @@ Sept. 2015.</li>
 R. Xu, J. Ban, S. Kalani, C. Hsu,  S. Ray, B. Kirby, G. Matos, J. Gonski, A. Smith, D. Panchal, M. Unanian, X. Yang, N. Sun, J. Parsons, T. Andeen, and P. Kinget, <a href="go_ieee.html">"COLUTA: Custom 8-Channel 15-bit 40-MSPS ADC for the ATLAS Liquid Argon Calorimeter Readout,"</a> IEEE Nuclear Science Symposium and Medical Imaging, Nov. 2022
 </li>
 
-<li>P. Barac, M. Bajor, R. Li, C. Pappas, and P. R. Kinget, <a href="">"High-Speed Compressive Sensing-Based Spectral and Angular Sensing with a Dual Mode Hardware Architecture"</a>, GOMACTech, accepted, March 2023
+<li>P. Barac, M. Bajor, R. Li, C. Pappas, and P. R. Kinget, <a href="">"High-Speed Compressive Sensing-Based Spectral and Angular Sensing with a Dual Mode Hardware Architecture"</a>, GOMACTech, March 2023
  
 <li>S. Ray, X. Sun, N. Tremmeling, M. Gordiyenko, and P. Kinget, <a href="https://arxiv.org/abs/2304.08541">"How Tiny Can Analog Filterbank Features Be Made for Ultra-low-power On-device Keyword Spotting?"</a> tinyML Research Symposium, March 2023
 
-<li>P. Barac, M. Bajor, and P. R. Kinget, <a href="go_ieee.html">"A Beamforming Receiver Using a Time-Modulated LO-Path Vector Modulator Achieving Amplitude and Phase Control with 0.2 dB RMS Gain Error and 1.4 Degree RMS Phase Error,"</a> IEEE Custom Integrated Circuits Conference (CICC), accepted for oral presentation, pp. 1-4, April 2024
+<li>P. Barac, M. Bajor, and P. R. Kinget, <a href="go_ieee.html">"A Beamforming Receiver Using a Time-Modulated LO-Path Vector Modulator Achieving Amplitude and Phase Control with 0.2 dB RMS Gain Error and 1.4 Degree RMS Phase Error,"</a> IEEE Custom Integrated Circuits Conference (CICC), pp. 1-4, April 2024
 
-<li>Z. Wang, H. Jiang, and P. R. Kinget, <a href="go_ieee.html">"A Digital Pre-Distortion Technique for High-Linearity, Low-Power, Compact Phase Interpolators,"</a> International Symposium on Circuits and Systems (ISCAS), accepted for oral presentation, pp. 1-4, May 2024.
+<li>Z. Wang, H. Jiang, and P. R. Kinget, <a href="go_ieee.html">"A Digital Pre-Distortion Technique for High-Linearity, Low-Power, Compact Phase Interpolators,"</a> International Symposium on Circuits and Systems (ISCAS), pp. 1-4, May 2024.
 
-<li>R. Xu, E. Raguzin, S. Mandal, G. Deptuch, and P. R. Kinget, <a href="go_ieee.html">"Cryogenic Characterization of a 5-6 GHz LC VCO for CMOS-Quantum Co-Integration,"</a> IEEE Quant. Comp. and Eng. Conf., accepted for presentation, Sept. 2024.
+<li>R. Xu, E. Raguzin, S. Mandal, G. Deptuch, and P. R. Kinget, <a href="go_ieee.html">"Cryogenic Characterization of a 5-6 GHz LC VCO for CMOS-Quantum Co-Integration,"</a> IEEE Quant. Comp. and Eng. Conf., Sept. 2024.
+ 
+ <li> P. R. Kinget, <a href="go_ieee.html">“Circuits Labs at the Lunch Table with MOSbius,”</a> <b>Keynote Luncheon</b> at the IEEE Custom Integrated Circuits Conference, <b>invited</b>, April 2025. 
+ 
+ <li> H. Jiang, C. Xue, J. Huang, and P. R. Kinget, <a href="go_ieee.html">“A Compact, 17.8TOPS/W, 2Gbps Programmable Analog Matched Filter and Coherent Accumulator for 79GHz PMCW Radar,”</a> accepted for presentation, IEEE Radio Frequency Integrated Circuits Symposium (RFIC), June 2025.
  
 </ol>
 
