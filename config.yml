@@ -123,6 +123,12 @@ params:
               url: why_analog
             - name: Posts
               url: posts
+            - name: MOSbius
+              url: 'https://mosbius.org/'
+              target: "_blank"
+            - name: VLSI Design Lab
+              url: 'https://vlsidesignlab.org/'
+              target: "_blank"
             - name: Tags
               url: tags/
             - name: Archive

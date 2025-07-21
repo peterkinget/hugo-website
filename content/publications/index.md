@@ -534,7 +534,9 @@ accepted, 2014.
 
 <li>P. Kinget, <a href="go_ieee.html">"Teaching IC Design: From Concepts to Testing a Fabricated Custom Chip [Society News],"</a> IEEE Solid-State Circuits Magazine, vol. 15, no. 3, pp. 87–93, 2023, doi: 10.1109/MSSC.2023.3283976.
 
-<li>P. Barac, M. Bajor, and P. R. Kinget, <a href="go_ieee.html">"Time-Modulated-LO-Path Vector Modulators for Beamforming Receivers,"</a> IEEE Solid-State Circuits Letters, Special Issue on the Custom Integrated Circuits Conference, <b>invited,</b> accepted for publication, Sept. 2024. doi: 10.1109/LSSC.2024.3478837
+<li>P. Barac, M. Bajor, and P. R. Kinget, <a href="go_ieee.html">"Time-Modulated-LO-Path Vector Modulators for Beamforming Receivers,"</a> IEEE Solid-State Circuits Letters, Special Issue on the Custom Integrated Circuits Conference, <b>invited,</b> vol. 7, pp. 323–326, 2024, doi: 10.1109/LSSC.2024.3478837.
+
+<li> R. Xu, J. Bán, S. Kalani, C.K. Hsu, S. Ray, B. Kirby, G. Matos, J. Gonski, A. C. Smith, D. M. Williams, K. E. Kennedy, A. Kahn, M. Contreras-Cossio, L. Larson, M. Himmelsbach, D. Panchal, M. Unanian, X. Yang, N. Sun, J. Parsons, T. R. Andeen Jr, and P. R. Kinget, , <a href="go_ieee.html">“A Radiation-Hard 8-Channel 15-Bit 40-MSPS ADC for the ATLAS Liquid Argon Calorimeter Readout,”</a> IEEE Open Journal of the Solid-State Circuits Society, vol. 5, pp. 180–199, 2025, doi: 10.1109/OJSSCS.2025.3573904.
 
 </ol>
 </ul>
@@ -988,7 +990,7 @@ VLSI Design, Chennai, India, Jan. 2011.
   P. Kinget, I. Kymissis, and G. Zussman, <a href="go_acm.html">"Demo: Organic Solar
   Cell-equipped Energy Harvesting Active Networked Tag (EnHANT)
   Prototypes,"</a> ACM Conference on Embedded Networked Sensor Systems (ACM
-  SenSys 2011), Seattle, WA, Nov. 2011. <br><i>Recipient of the <b>"Best Student Demo
+  SenSys 2011), Seattle, WA, Nov. 2011. <i>Recipient of the <b>"Best Student Demo
   Award".</b></i>
 
 <li> B. Vigraham and P. Kinget, <a href="go_ieee.html">"An Ultra Low
@@ -1071,6 +1073,8 @@ International Solid-State Circuits Conference (ISSCC), Feb. 2014.
   0.92uW Temperature Sensor with Less Than +3.2/-3.4degC Error for On-Chip
   Dense Thermal Monitoring,"</a> IEEE International Solid-State Circuits
   Conference (ISSCC), Feb. 2014.
+
+<li>	S. Yang, B. Van Tassell, C. Le, S. Liu, E. S. Leland, D. A. Steingart, P. Kinget, S. O'Brien, I. Kymissis, <a href="go_ieee.html">"Metacapacitor: Large Area, Low Cost, High Performance Capacitors for Power Electronics",</a> FlexTech Alliance Conference, Poster, Feb. 2014. <i>Received the</i> <b>“Student Poster Award 2nd Place.”</b>
 
 <li> Y. Xu, J. Zhu, and P.R. Kinget, <a href="go_ieee.html">"A Blocker-Tolerant RF Front End
 with Harmonic-Rejecting N-Path Filtering,"</a> IEEE Radio Frequency
@@ -1259,22 +1263,22 @@ Sept. 2015.</li>
 <li>V. Mangal and P. R. Kinget, <a href="go_ieee.html">"A -80.9dBm 450MHz Wake-Up Receiver with Code-Domain Matched Filtering using a Continuous-Time Analog Correlator,"</a> IEEE Radio Frequency Integrated Circuits Symposium (RFIC), June 2019
 </li>
 
-<li>T. Haque, G. Han, M. Bajor, J. Wright and P. R. Kinget, <a href="go_ieee.html">"Flexible Architectures for Concurrent Reception of Multiple RF Carriers and Compressed-Sampling Signal Detection in Frequency and Direction-of-Arrival,"</a> IEEE MTT-S International Microwave Conference on Hardware and Systems for 5G and beyond (IMC-5G), accepted, Aug. 2019
+<li>T. Haque, G. Han, M. Bajor, J. Wright and P. R. Kinget, <a href="go_ieee.html">"Flexible Architectures for Concurrent Reception of Multiple RF Carriers and Compressed-Sampling Signal Detection in Frequency and Direction-of-Arrival,"</a> IEEE MTT-S International Microwave Conference on Hardware and Systems for 5G and beyond (IMC-5G), Aug. 2019
 </li> 
 
- <li> Z. Wang, Y. Zhang, Y. Onizuka, and P. R. Kinget, <a href="go_ieee.html">"A High Accuracy, Multi-Phase Injection-Locked, 8-Phase, 7GHz Clock Generator in 65nm with 7bit Phase Interpolators for High-Speed Data Links,"</a> International Solid-State Circuits Conference (ISSCC), accepted, Feb. 2021.
+ <li> Z. Wang, Y. Zhang, Y. Onizuka, and P. R. Kinget, <a href="go_ieee.html">"A High Accuracy, Multi-Phase Injection-Locked, 8-Phase, 7GHz Clock Generator in 65nm with 7bit Phase Interpolators for High-Speed Data Links,"</a> International Solid-State Circuits Conference (ISSCC), Feb. 2021.
  </li>
  
-<li> S. Nagam, Y. Fan, and P.R. Kinget, <a href="go_ieee.html">"Auxiliary Feed-Forward Noise Cancellation for a Generic Type-II Ring Oscillator PLL,"</a> International Symposium on Circuits and Systems (ISCAS), accepted, May 2021.
+<li> S. Nagam, Y. Fan, and P.R. Kinget, <a href="go_ieee.html">"Auxiliary Feed-Forward Noise Cancellation for a Generic Type-II Ring Oscillator PLL,"</a> International Symposium on Circuits and Systems (ISCAS), May 2021.
 </li>
  
-<li> Z. Wang and P. R. Kinget, <a href="go_ieee.html">"A 65nm CMOS, 3.5-to-11GHz, Less-Than-1.45LSB-INLpp, 7b Twin Phase Interpolator with a Wideband, Low-Noise Delta Quadrature Delay-Locked Loop for High-Speed Data Links,"</a> International Solid-State Circuits Conference (ISSCC), accepted, Feb. 2022.
+<li> Z. Wang and P. R. Kinget, <a href="go_ieee.html">"A 65nm CMOS, 3.5-to-11GHz, Less-Than-1.45LSB-INLpp, 7b Twin Phase Interpolator with a Wideband, Low-Noise Delta Quadrature Delay-Locked Loop for High-Speed Data Links,"</a> International Solid-State Circuits Conference (ISSCC), Feb. 2022.
 </li>
  
-<li> P. Barac, M. Bajor, and P. R. Kinget, <a href="go_ieee.html">"Compressive-Sampling Spectrum Scanning with a Beamforming Receiver for Rapid, Directional, Wideband Signal Detection,"</a> IEEE 95th Vehicular Technology Conference (VTC2022), accepted, June 2022.
+<li> P. Barac, M. Bajor, and P. R. Kinget, <a href="go_ieee.html">"Compressive-Sampling Spectrum Scanning with a Beamforming Receiver for Rapid, Directional, Wideband Signal Detection,"</a> IEEE 95th Vehicular Technology Conference (VTC2022), June 2022.
 </li>
  
-<li> S. Ray and P. R. Kinget, <a href="go_ieee.html">"A 31-Feature, 80nW, 0.53mm2 Audio Analog Feature Extractor based on Time-Mode Analog Filterbank Interpolation and Time-Mode Analog Rectification,"</a> IEEE Symposium on VLSI Circuits, accepted, June 2022 
+<li> S. Ray and P. R. Kinget, <a href="go_ieee.html">"A 31-Feature, 80nW, 0.53mm2 Audio Analog Feature Extractor based on Time-Mode Analog Filterbank Interpolation and Time-Mode Analog Rectification,"</a> IEEE Symposium on VLSI Circuits, June 2022 
 </li>
 
 <li>M. Bajor et al., <a href="https://events.gnuradio.org/event/18/contributions/291/">"High-Speed Sensing of the Electromagnetic (EM) Environment for Cognitive Radio Receivers,"</a> presented at the GNU Radio Conference 2022, Washington, D.C., Washington, D.C., Sep. 2022. Accessed: Aug. 20, 2022. [Online]. 
@@ -1296,8 +1300,10 @@ R. Xu, J. Ban, S. Kalani, C. Hsu,  S. Ray, B. Kirby, G. Matos, J. Gonski, A. Smi
  
  <li> P. R. Kinget, <a href="go_ieee.html">“Circuits Labs at the Lunch Table with MOSbius,”</a> <b>Keynote Luncheon</b> at the IEEE Custom Integrated Circuits Conference, <b>invited</b>, April 2025. 
  
- <li> H. Jiang, C. Xue, J. Huang, and P. R. Kinget, <a href="go_ieee.html">“A Compact, 17.8TOPS/W, 2Gbps Programmable Analog Matched Filter and Coherent Accumulator for 79GHz PMCW Radar,”</a> accepted for presentation, IEEE Radio Frequency Integrated Circuits Symposium (RFIC), June 2025.
+ <li> H. Jiang, C. Xue, J. Huang, and P. R. Kinget, <a href="go_ieee.html">“A Compact, 17.8TOPS/W, 2Gbps Programmable Analog Matched Filter and Coherent Accumulator for 79GHz PMCW Radar,”</a> IEEE Radio Frequency Integrated Circuits Symposium (RFIC), June 2025.
  
+ <li>	S. Xu, Y. Wei, Y. He, and P.R. Kinget, <a href="go_ieee.html">“A 6.5pJ/Step Highly Linear Readout IC with Duty-Cycled Resistor and Switched Capacitor for Resistive and Capacitive Sensor Interface,”</a> IEEE European Solid-State Electronics Research Conference (ESSERC), accepted for presentation, Sept. 2025.
+
 </ol>
 
 ## Tutorials 
