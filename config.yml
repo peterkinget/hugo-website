@@ -11,6 +11,10 @@ taxonomies:
 
 menu:
     main:
+    - identifier: posts
+      name: News
+      url: posts/
+      weight: 5
     - name: Bio
       url: biography
       weight: 10
@@ -30,10 +34,7 @@ menu:
     - name: Why Analog
       url: why_analog
       weight: 45
-    - identifier: posts
-      name: Posts
-      url: posts/
-      weight: 50
+    
 #       params: 
 #         expand: true
     - identifier: tags
@@ -110,6 +111,8 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
+            - name: News
+              url: posts
             - name: Bio
               url: biography
             - name: Teaching
@@ -121,8 +124,7 @@ params:
               target: "_blank"
             - name: Why Analog
               url: why_analog
-            - name: Posts
-              url: posts
+            
             - name: MOSbius
               url: 'https://mosbius.org/'
               target: "_blank"
