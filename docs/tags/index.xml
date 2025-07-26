@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Peter R. Kinget</title>
-    <link>http://localhost:1313/hugo-website/tags/</link>
+    <link>https://peterkinget.github.io/hugo-website/tags/</link>
     <description>Recent content in Tags on Peter R. Kinget</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
     <lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://peterkinget.github.io/hugo-website/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linkedin</title>
-      <link>http://localhost:1313/hugo-website/tags/linkedin/</link>
+      <link>https://peterkinget.github.io/hugo-website/tags/linkedin/</link>
       <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/tags/linkedin/</guid>
+      <guid>https://peterkinget.github.io/hugo-website/tags/linkedin/</guid>
       <description></description>
     </item>
     <item>
       <title>Research</title>
-      <link>http://localhost:1313/hugo-website/tags/research/</link>
+      <link>https://peterkinget.github.io/hugo-website/tags/research/</link>
       <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/tags/research/</guid>
+      <guid>https://peterkinget.github.io/hugo-website/tags/research/</guid>
       <description></description>
     </item>
     <item>
       <title>MOSbius</title>
-      <link>http://localhost:1313/hugo-website/tags/mosbius/</link>
+      <link>https://peterkinget.github.io/hugo-website/tags/mosbius/</link>
       <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/tags/mosbius/</guid>
+      <guid>https://peterkinget.github.io/hugo-website/tags/mosbius/</guid>
       <description></description>
     </item>
     <item>
       <title>Awards</title>
-      <link>http://localhost:1313/hugo-website/tags/awards/</link>
+      <link>https://peterkinget.github.io/hugo-website/tags/awards/</link>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/tags/awards/</guid>
+      <guid>https://peterkinget.github.io/hugo-website/tags/awards/</guid>
       <description></description>
     </item>
     <item>
       <title>VlsiDesignLab</title>
-      <link>http://localhost:1313/hugo-website/tags/vlsidesignlab/</link>
+      <link>https://peterkinget.github.io/hugo-website/tags/vlsidesignlab/</link>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/tags/vlsidesignlab/</guid>
+      <guid>https://peterkinget.github.io/hugo-website/tags/vlsidesignlab/</guid>
       <description></description>
     </item>
     <item>
       <title>HUGO</title>
-      <link>http://localhost:1313/hugo-website/tags/hugo/</link>
+      <link>https://peterkinget.github.io/hugo-website/tags/hugo/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/tags/hugo/</guid>
+      <guid>https://peterkinget.github.io/hugo-website/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Websites</title>
-      <link>http://localhost:1313/hugo-website/tags/websites/</link>
+      <link>https://peterkinget.github.io/hugo-website/tags/websites/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/tags/websites/</guid>
+      <guid>https://peterkinget.github.io/hugo-website/tags/websites/</guid>
       <description></description>
     </item>
   </channel>
