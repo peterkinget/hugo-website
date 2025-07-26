@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Awards on Peter R. Kinget</title>
-    <link>https://peterkinget.github.io/hugo-website/tags/awards/</link>
+    <link>http://localhost:1313/hugo-website/tags/awards/</link>
     <description>Recent content in Awards on Peter R. Kinget</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
     <lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://peterkinget.github.io/hugo-website/tags/awards/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/hugo-website/tags/awards/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Columbia University Presidential Award for Outstanding Teaching</title>
-      <link>https://peterkinget.github.io/hugo-website/posts/20250515/</link>
+      <link>http://localhost:1313/hugo-website/posts/20250515/</link>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://peterkinget.github.io/hugo-website/posts/20250515/</guid>
+      <guid>http://localhost:1313/hugo-website/posts/20250515/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;screen_grab3.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.linkedin.com/posts/peter-kinget-7481a3_it-was-a-humbling-but-deeply-gratifying-experience-activity-7331079105225838592-Uuv9?utm_source=share&amp;amp;utm_medium=member_desktop&amp;amp;rcm=ACoAAAAHDmgB19bG3MKxZ42Vk_97M-OxFMRKSl0&#34; target=&#34;_blank&#34;&gt;Posted on LinkedIn&lt;/a&gt;:&lt;/strong&gt; It was a humbling but deeply gratifying experience to receive a &lt;a href=&#34;https://provost.columbia.edu/content/presidential-award-outstanding-teaching-faculty-1996-2025&#34; target=&#34;_blank&#34;&gt;Presidential Award for Outstanding Teaching&lt;/a&gt; at the Columbia University &lt;a href=&#34;https://commencement.columbia.edu/content/2025-honorands-and-awardees&#34; target=&#34;_blank&#34;&gt;Commencement&lt;/a&gt; today. Many thanks for everyone who helped me get here. Thanks to my family for their patience and support, my teachers and mentors, my students for their feedback and interest, my TAs for their help and dedication, my colleagues and EE support staff, our industrial sponsors, and a special thank you to &lt;a href=&#34;https://www.tsividis.ee.columbia.edu/&#34; target=&#34;_blank&#34;&gt;Yannis Tsividis&lt;/a&gt; for his example and mentorship on striving for teaching excellence.
@@ -22,9 +22,9 @@
     </item>
     <item>
       <title>Profile: A Circuit of Dedication</title>
-      <link>https://peterkinget.github.io/hugo-website/posts/20250509/</link>
+      <link>http://localhost:1313/hugo-website/posts/20250509/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://peterkinget.github.io/hugo-website/posts/20250509/</guid>
+      <guid>http://localhost:1313/hugo-website/posts/20250509/</guid>
       <description>&lt;!-- [![thumbnail](matt_venn_peter_kinget_MOSbius.jpg)](https://www.youtube.com/watch?v=abu3u6UX6wE)&gt; --&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.engineering.columbia.edu/about/news/circuit-dedication-peter-kinget-honored-outstanding-teaching&#34; target=&#34;_blank&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;circuit_of_dedication_shot.jpg&#34; alt=&#34;screen_shot&#34;  /&gt;
 &lt;/a&gt;&lt;/p&gt;

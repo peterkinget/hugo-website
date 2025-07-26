@@ -2,17 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Peter R. Kinget</title>
-    <link>https://peterkinget.github.io/hugo-website/</link>
+    <link>http://localhost:1313/hugo-website/</link>
     <description>Recent content on Peter R. Kinget</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://peterkinget.github.io/hugo-website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo-website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The next discoveries made with the LHC will be triggered by one Columbia chip and measured by another</title>
+      <link>http://localhost:1313/hugo-website/posts/20250726/</link>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/posts/20250726/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;atlas_adc.png&#34; alt=&#34;atlas_adc&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;The next discoveries made with the CERN LHC will be triggered by one Columbia chip and measured by another.&amp;rdquo;&lt;/em&gt; Columbia Engineering features a nice &lt;a href=&#34;https://www.engineering.columbia.edu/about/news/engineering-next-generation-experimental-physics&#34; target=&#34;_blank&#34;&gt;overview article&lt;/a&gt; &lt;a href=&#34;EngineeringNextGenerationExperimentalPhysics.pdf&#34;&gt;(pdf)&lt;/a&gt;) of our collaboration with the &lt;a href=&#34;https://www.nevis.columbia.edu/~atlas/&#34; target=&#34;_blank&#34;&gt;Columbia ATLAS Group&lt;/a&gt; at the &lt;a href=&#34;https://www.nevis.columbia.edu/nevis-science.html&#34; target=&#34;_blank&#34;&gt;Nevis Laboratories&lt;/a&gt; designing two high performance, radiation-hard ADCs for the &lt;a href=&#34;https://www.nevis.columbia.edu/particle/atlas.html&#34; target=&#34;_blank&#34;&gt;ATLAS experiment&lt;/a&gt; in the &lt;a href=&#34;https://home.web.cern.ch/science/accelerators/old-large-hadron-collider&#34; target=&#34;_blank&#34;&gt;Large Hadron Collider (LHC)&lt;/a&gt; at &lt;a href=&#34;https://home.cern&#34; target=&#34;_blank&#34;&gt;CERN&lt;/a&gt;. It has been an honor to collaborate with &lt;a href=&#34;https://particle.physics.columbia.edu/people/john-parsons&#34; target=&#34;_blank&#34;&gt;John Parsons&lt;/a&gt;, &lt;a href=&#34;https://particle.physics.columbia.edu/people/gustaaf-h-brooijmans&#34; target=&#34;_blank&#34;&gt;Gustaaf Brooijmans&lt;/a&gt;, &lt;a href=&#34;https://www.nevis.columbia.edu/~ban/&#34; target=&#34;_blank&#34;&gt;Jaro Ban&lt;/a&gt;, &lt;a href=&#34;https://cloud.wikis.utexas.edu/wiki/spaces/utatlas/pages/50626823/Home&amp;#43;-&amp;#43;Andeen&#34; target=&#34;_blank&#34;&gt;Tim Andeen&lt;/a&gt;, &lt;a href=&#34;https://sunlab.ee.tsinghua.edu.cn/en/&#34; target=&#34;_blank&#34;&gt;Nan Sun&lt;/a&gt;, and many others.&lt;/p&gt;
+&lt;p&gt;The &amp;rsquo;numbers&amp;rsquo; of this experiment are mind boggling: the tunnel is 27km long, the particles race at 99.999999%  of the speed of light in bunches with a bunch-crossing rate of 40MHz, creating about 1 billion collisions per second. The detector is several stories high and has more than 180,000 channels, requiring two ADCs. For the next LHC upgrade starting in 2026, more than 45,000 of our &lt;a href=&#34;https://ieeexplore.ieee.org/document/11017335&#34; target=&#34;_blank&#34;&gt;8-channel ADC chips&lt;/a&gt; will be installed.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Interview on MOSbius with Matt Venn (Zero to ASIC Course)</title>
-      <link>https://peterkinget.github.io/hugo-website/posts/20250624/</link>
+      <link>http://localhost:1313/hugo-website/posts/20250624/</link>
       <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://peterkinget.github.io/hugo-website/posts/20250624/</guid>
+      <guid>http://localhost:1313/hugo-website/posts/20250624/</guid>
       <description>&lt;!-- [![thumbnail](matt_venn_peter_kinget_MOSbius.jpg)](https://www.youtube.com/watch?v=abu3u6UX6wE)&gt; --&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/abu3u6UX6wE?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -23,9 +33,9 @@
     </item>
     <item>
       <title>Columbia University Presidential Award for Outstanding Teaching</title>
-      <link>https://peterkinget.github.io/hugo-website/posts/20250515/</link>
+      <link>http://localhost:1313/hugo-website/posts/20250515/</link>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://peterkinget.github.io/hugo-website/posts/20250515/</guid>
+      <guid>http://localhost:1313/hugo-website/posts/20250515/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;screen_grab3.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.linkedin.com/posts/peter-kinget-7481a3_it-was-a-humbling-but-deeply-gratifying-experience-activity-7331079105225838592-Uuv9?utm_source=share&amp;amp;utm_medium=member_desktop&amp;amp;rcm=ACoAAAAHDmgB19bG3MKxZ42Vk_97M-OxFMRKSl0&#34; target=&#34;_blank&#34;&gt;Posted on LinkedIn&lt;/a&gt;:&lt;/strong&gt; It was a humbling but deeply gratifying experience to receive a &lt;a href=&#34;https://provost.columbia.edu/content/presidential-award-outstanding-teaching-faculty-1996-2025&#34; target=&#34;_blank&#34;&gt;Presidential Award for Outstanding Teaching&lt;/a&gt; at the Columbia University &lt;a href=&#34;https://commencement.columbia.edu/content/2025-honorands-and-awardees&#34; target=&#34;_blank&#34;&gt;Commencement&lt;/a&gt; today. Many thanks for everyone who helped me get here. Thanks to my family for their patience and support, my teachers and mentors, my students for their feedback and interest, my TAs for their help and dedication, my colleagues and EE support staff, our industrial sponsors, and a special thank you to &lt;a href=&#34;https://www.tsividis.ee.columbia.edu/&#34; target=&#34;_blank&#34;&gt;Yannis Tsividis&lt;/a&gt; for his example and mentorship on striving for teaching excellence.
@@ -35,9 +45,9 @@
     </item>
     <item>
       <title>Profile: A Circuit of Dedication</title>
-      <link>https://peterkinget.github.io/hugo-website/posts/20250509/</link>
+      <link>http://localhost:1313/hugo-website/posts/20250509/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://peterkinget.github.io/hugo-website/posts/20250509/</guid>
+      <guid>http://localhost:1313/hugo-website/posts/20250509/</guid>
       <description>&lt;!-- [![thumbnail](matt_venn_peter_kinget_MOSbius.jpg)](https://www.youtube.com/watch?v=abu3u6UX6wE)&gt; --&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.engineering.columbia.edu/about/news/circuit-dedication-peter-kinget-honored-outstanding-teaching&#34; target=&#34;_blank&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;circuit_of_dedication_shot.jpg&#34; alt=&#34;screen_shot&#34;  /&gt;
 &lt;/a&gt;&lt;/p&gt;
@@ -46,9 +56,9 @@
     </item>
     <item>
       <title>Keynote Luncheon at CICC 2025</title>
-      <link>https://peterkinget.github.io/hugo-website/posts/20250415/</link>
+      <link>http://localhost:1313/hugo-website/posts/20250415/</link>
       <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://peterkinget.github.io/hugo-website/posts/20250415/</guid>
+      <guid>http://localhost:1313/hugo-website/posts/20250415/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;cicc_talk_setup.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.linkedin.com/posts/peter-kinget-7481a3_it-was-an-honor-and-true-pleasure-to-present-activity-7319485487214153728-u-4G?utm_source=share&amp;amp;utm_medium=member_desktop&amp;amp;rcm=ACoAAAAHDmgB19bG3MKxZ42Vk_97M-OxFMRKSl0&#34; target=&#34;_blank&#34;&gt;Posted on LinkedIn&lt;/a&gt;:&lt;/strong&gt; It was an honor and true pleasure to present the &lt;a href=&#34;https://mosbius.org&#34; target=&#34;_blank&#34;&gt;MOSbius circuit lab educational platform&lt;/a&gt; as the keynote luncheon at the &lt;a href=&#34;https://www.linkedin.com/company/ieee-cicc/&#34; target=&#34;_blank&#34;&gt;IEEE Custom Integrated Circuits Conference&lt;/a&gt;&lt;/p&gt;
@@ -61,9 +71,9 @@
     </item>
     <item>
       <title>Teaching</title>
-      <link>https://peterkinget.github.io/hugo-website/teaching/</link>
+      <link>http://localhost:1313/hugo-website/teaching/</link>
       <pubDate>Sat, 25 Jan 2025 19:21:49 -0400</pubDate>
-      <guid>https://peterkinget.github.io/hugo-website/teaching/</guid>
+      <guid>http://localhost:1313/hugo-website/teaching/</guid>
       <description>&lt;h2 id=&#34;education-projects&#34;&gt;Education Projects&lt;/h2&gt;
 &lt;h3 id=&#34;vlsi-design-labhttpsvlsidesignlaborg&#34;&gt;&lt;a href=&#34;https://vlsidesignlab.org&#34; target=&#34;_blank&#34;&gt;VLSI Design Lab&lt;/a&gt;&lt;/h3&gt;
 &lt;table&gt;
@@ -88,9 +98,9 @@
     </item>
     <item>
       <title>Publications</title>
-      <link>https://peterkinget.github.io/hugo-website/publications/</link>
+      <link>http://localhost:1313/hugo-website/publications/</link>
       <pubDate>Sat, 25 Jan 2025 18:18:32 -0400</pubDate>
-      <guid>https://peterkinget.github.io/hugo-website/publications/</guid>
+      <guid>http://localhost:1313/hugo-website/publications/</guid>
       <description>&lt;p&gt; Publications are listed by type and in chronological order, so the most
 recent ones are at the end. &lt;!-- Here are some short links to jump to various
 sections. --&gt;
@@ -163,9 +173,9 @@ Plassche, Eds. Boston, MA: Kluwer, 1999, pp. 353-381. &lt;/li&gt;
     </item>
     <item>
       <title>Biographies</title>
-      <link>https://peterkinget.github.io/hugo-website/biography/</link>
+      <link>http://localhost:1313/hugo-website/biography/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://peterkinget.github.io/hugo-website/biography/</guid>
+      <guid>http://localhost:1313/hugo-website/biography/</guid>
       <description>&lt;!-- 
 |&amp;nbsp; [Biography](#biography)  &amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;    [Shorter Biography](#shorter-biography) &amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;    [Short Biography](#short-biography) 
 &amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp; [Photos](#photos) &amp;nbsp;| --&gt;
@@ -192,39 +202,39 @@ industry.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>https://peterkinget.github.io/hugo-website/contact/</link>
+      <link>http://localhost:1313/hugo-website/contact/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://peterkinget.github.io/hugo-website/contact/</guid>
+      <guid>http://localhost:1313/hugo-website/contact/</guid>
       <description>Contact Info</description>
     </item>
     <item>
       <title>First Page</title>
-      <link>https://peterkinget.github.io/hugo-website/first_page/</link>
+      <link>http://localhost:1313/hugo-website/first_page/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://peterkinget.github.io/hugo-website/first_page/</guid>
+      <guid>http://localhost:1313/hugo-website/first_page/</guid>
       <description>First Page</description>
     </item>
     <item>
       <title>New Website Built with Hugo and GitHub Pages</title>
-      <link>https://peterkinget.github.io/hugo-website/posts/20250125/</link>
+      <link>http://localhost:1313/hugo-website/posts/20250125/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://peterkinget.github.io/hugo-website/posts/20250125/</guid>
+      <guid>http://localhost:1313/hugo-website/posts/20250125/</guid>
       <description>&lt;p&gt;Proud to present my new website developed with Hugo and hosted on GitHub Pages and discuss here how I built the site.&lt;/p&gt;
 &lt;h1 id=&#34;how-did-i-build-this-website&#34;&gt;How did I build this website?&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; &lt;em&gt;I am not trying to write a full tutorial, there are (too) many already out there. I am outlining how I went about building this website and I am documenting some things I had to learn the hard way, i.e. lost too much time for something that was relatively simple in hindsight but I just did not find it easily in the existing tutorials.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Office Hours</title>
-      <link>https://peterkinget.github.io/hugo-website/officehours/</link>
+      <link>http://localhost:1313/hugo-website/officehours/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://peterkinget.github.io/hugo-website/officehours/</guid>
+      <guid>http://localhost:1313/hugo-website/officehours/</guid>
       <description>Office Hours</description>
     </item>
     <item>
       <title>MOSbius: IC-Style Circuit Labs at the Lunch Table</title>
-      <link>https://peterkinget.github.io/hugo-website/posts/20241220/</link>
+      <link>http://localhost:1313/hugo-website/posts/20241220/</link>
       <pubDate>Fri, 20 Dec 2024 11:58:27 -0400</pubDate>
-      <guid>https://peterkinget.github.io/hugo-website/posts/20241220/</guid>
+      <guid>http://localhost:1313/hugo-website/posts/20241220/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;mosbius_overview.jpeg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Posted on LinkedIn:&lt;/strong&gt; Want to offer your students hands-on labs in your integrated-circuits courses connecting measurement, simulation, and analysis? We created the MOSbius chip for that purpose! Documentation and example experiments are available at &lt;a href=&#34;https://mosbius.org&#34; target=&#34;_blank&#34;&gt;https://mosbius.org&lt;/a&gt;.&lt;/p&gt;
@@ -232,9 +242,9 @@ industry.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spring 2024 VLSI Design Lab Chips Are Working!</title>
-      <link>https://peterkinget.github.io/hugo-website/posts/20241223/</link>
+      <link>http://localhost:1313/hugo-website/posts/20241223/</link>
       <pubDate>Fri, 20 Dec 2024 11:58:27 -0400</pubDate>
-      <guid>https://peterkinget.github.io/hugo-website/posts/20241223/</guid>
+      <guid>http://localhost:1313/hugo-website/posts/20241223/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;EE6350_S24_group.jpeg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Posted on LinkedIn:&lt;/strong&gt; Chips are working! Well-deserved kudos to the “VLSI Design Lab” (t/o course) students who measured their chips and demonstrated them in an application. Take a look at &lt;a href=&#34;https://www.ee.columbia.edu/~kinget/EE6350_S24&#34; target=&#34;_blank&#34;&gt;their websites and videos&lt;/a&gt;.&lt;/p&gt;
@@ -242,9 +252,9 @@ industry.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2024 VLSI Design Lab Tape-Out!</title>
-      <link>https://peterkinget.github.io/hugo-website/posts/20240701/</link>
+      <link>http://localhost:1313/hugo-website/posts/20240701/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://peterkinget.github.io/hugo-website/posts/20240701/</guid>
+      <guid>http://localhost:1313/hugo-website/posts/20240701/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;EE6350_tile_S24.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Posted on LinkedIn:&lt;/strong&gt; We taped-out our 2024 VLSI Design Lab class projects!! Three PPG chips, an ECG chip, an AM radio, a potentiostat, a sensor readout, a radar baseband, an NPU and last but not least, a RISC-V processor have been sent out for fabrication.&lt;/p&gt;
@@ -252,9 +262,9 @@ industry.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Summer 2023: SSCS Magazine Article on VLSI Design Lab</title>
-      <link>https://peterkinget.github.io/hugo-website/posts/20230801/</link>
+      <link>http://localhost:1313/hugo-website/posts/20230801/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://peterkinget.github.io/hugo-website/posts/20230801/</guid>
+      <guid>http://localhost:1313/hugo-website/posts/20230801/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;SSCS_Magazine_summer_2023.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Posted on LinkedIn:&lt;/strong&gt; Hot of the press in the SSCS Magazine Summer 2023: &amp;ldquo;Teaching IC Design: From Concepts to Testing a Fabricated Custom Chip&amp;rdquo;&lt;/p&gt;
@@ -263,9 +273,9 @@ industry.&lt;/p&gt;</description>
     </item>
     <item>
       <title>VLSI Design Lab Video</title>
-      <link>https://peterkinget.github.io/hugo-website/posts/20230410/</link>
+      <link>http://localhost:1313/hugo-website/posts/20230410/</link>
       <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://peterkinget.github.io/hugo-website/posts/20230410/</guid>
+      <guid>http://localhost:1313/hugo-website/posts/20230410/</guid>
       <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/H0-fBRIJ4Tg?si=PUPpzTZvpnXV_aro&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;strong&gt;Posted on LinkedIn:&lt;/strong&gt; Happy to share a video Columbia Engineering made about the demo session for the VLSI Design Lab where students design a chip, get it fabricated, and demonstrate it. Proud of the hard work and dedication of the students and the TAs!! Many thanks to our 2022 sponsor Apple.&lt;/p&gt;
 &lt;p&gt;Take a look at the &lt;a href=&#34;https://www.ee.columbia.edu/~kinget/EE6350_S22&#34; target=&#34;_blank&#34;&gt;course website&lt;/a&gt; for more details.&lt;/p&gt;
@@ -273,9 +283,9 @@ industry.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The (electronic) world is going Digital, why Analog?</title>
-      <link>https://peterkinget.github.io/hugo-website/why_analog/</link>
+      <link>http://localhost:1313/hugo-website/why_analog/</link>
       <pubDate>Sat, 15 Oct 2022 19:51:10 -0400</pubDate>
-      <guid>https://peterkinget.github.io/hugo-website/why_analog/</guid>
+      <guid>http://localhost:1313/hugo-website/why_analog/</guid>
       <description>&lt;!-- &lt;h1&gt;The (electronic) world is going Digital, why Analog?&lt;/h1&gt; --&gt;
 &lt;ul&gt;  
 &lt;li&gt;&lt;u&gt;Note:&lt;/u&gt; The references are getting outdated, but the many of the points made are still valid. If you have a suggestion for items or links to include in this list, do not hesitate to contact &lt;a href=&#34;mailto:pk171+website@columbia.edu&#34;&gt;Peter Kinget&lt;/a&gt;.&lt;/li&gt;&lt;br&gt;
