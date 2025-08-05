@@ -1,0 +1,3 @@
+- add spectrum from Baradwaj
+- add spectrum MOSbius
+- add EnHants
